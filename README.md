@@ -13,7 +13,7 @@ Plataforma para conectar clientes a profissionais autônomos, com foco em recém
 ### Integrantes
 
 - Natalia Matias P. da Silva
-- Ciclano da Silva – RA XXXXXXX
+- Melquisedeque Alves Lourenço 
 - Beltrano Souza – RA XXXXXXX
 
 ### Como executar o projeto
