@@ -1,0 +1,6 @@
+@Conecta_Prototype.APIrest_HostAddress = http://localhost:5295
+
+GET {{Conecta_Prototype.APIrest_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,30 @@
+D:\Rendimentos BK\Conecta\Conecta_Prototype\Conecta_Prototype.aplication\bin\Debug\net8.0\Conecta_Prototype.Application.deps.json
+D:\Rendimentos BK\Conecta\Conecta_Prototype\Conecta_Prototype.aplication\bin\Debug\net8.0\Conecta_Prototype.Application.dll
+D:\Rendimentos BK\Conecta\Conecta_Prototype\Conecta_Prototype.aplication\bin\Debug\net8.0\Conecta_Prototype.Application.pdb
+D:\Rendimentos BK\Conecta\Conecta_Prototype\Conecta_Prototype.aplication\bin\Debug\net8.0\Conecta_Prototype.Domain.dll
+D:\Rendimentos BK\Conecta\Conecta_Prototype\Conecta_Prototype.aplication\bin\Debug\net8.0\Conecta_Prototype.Domain.pdb
+D:\Rendimentos BK\Conecta\Conecta_Prototype\Conecta_Prototype.aplication\obj\Debug\net8.0\Conecta_Prototype.Application.csproj.AssemblyReference.cache
+D:\Rendimentos BK\Conecta\Conecta_Prototype\Conecta_Prototype.aplication\obj\Debug\net8.0\Conecta_Prototype.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rendimentos BK\Conecta\Conecta_Prototype\Conecta_Prototype.aplication\obj\Debug\net8.0\Conecta_Prototype.Application.AssemblyInfoInputs.cache
+D:\Rendimentos BK\Conecta\Conecta_Prototype\Conecta_Prototype.aplication\obj\Debug\net8.0\Conecta_Prototype.Application.AssemblyInfo.cs
+D:\Rendimentos BK\Conecta\Conecta_Prototype\Conecta_Prototype.aplication\obj\Debug\net8.0\Conecta_Prototype.Application.csproj.CoreCompileInputs.cache
+D:\Rendimentos BK\Conecta\Conecta_Prototype\Conecta_Prototype.aplication\obj\Debug\net8.0\Conecta_.B60F31DA.Up2Date
+D:\Rendimentos BK\Conecta\Conecta_Prototype\Conecta_Prototype.aplication\obj\Debug\net8.0\Conecta_Prototype.Application.dll
+D:\Rendimentos BK\Conecta\Conecta_Prototype\Conecta_Prototype.aplication\obj\Debug\net8.0\refint\Conecta_Prototype.Application.dll
+D:\Rendimentos BK\Conecta\Conecta_Prototype\Conecta_Prototype.aplication\obj\Debug\net8.0\Conecta_Prototype.Application.pdb
+D:\Rendimentos BK\Conecta\Conecta_Prototype\Conecta_Prototype.aplication\obj\Debug\net8.0\ref\Conecta_Prototype.Application.dll
+D:\Conecta\Conecta_Prototype\Conecta_Prototype.aplication\bin\Debug\net8.0\Conecta_Prototype.Application.deps.json
+D:\Conecta\Conecta_Prototype\Conecta_Prototype.aplication\bin\Debug\net8.0\Conecta_Prototype.Application.dll
+D:\Conecta\Conecta_Prototype\Conecta_Prototype.aplication\bin\Debug\net8.0\Conecta_Prototype.Application.pdb
+D:\Conecta\Conecta_Prototype\Conecta_Prototype.aplication\bin\Debug\net8.0\Conecta_Prototype.Domain.dll
+D:\Conecta\Conecta_Prototype\Conecta_Prototype.aplication\bin\Debug\net8.0\Conecta_Prototype.Domain.pdb
+D:\Conecta\Conecta_Prototype\Conecta_Prototype.aplication\obj\Debug\net8.0\Conecta_Prototype.Application.csproj.AssemblyReference.cache
+D:\Conecta\Conecta_Prototype\Conecta_Prototype.aplication\obj\Debug\net8.0\Conecta_Prototype.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Conecta\Conecta_Prototype\Conecta_Prototype.aplication\obj\Debug\net8.0\Conecta_Prototype.Application.AssemblyInfoInputs.cache
+D:\Conecta\Conecta_Prototype\Conecta_Prototype.aplication\obj\Debug\net8.0\Conecta_Prototype.Application.AssemblyInfo.cs
+D:\Conecta\Conecta_Prototype\Conecta_Prototype.aplication\obj\Debug\net8.0\Conecta_Prototype.Application.csproj.CoreCompileInputs.cache
+D:\Conecta\Conecta_Prototype\Conecta_Prototype.aplication\obj\Debug\net8.0\Conecta_.B60F31DA.Up2Date
+D:\Conecta\Conecta_Prototype\Conecta_Prototype.aplication\obj\Debug\net8.0\Conecta_Prototype.Application.dll
+D:\Conecta\Conecta_Prototype\Conecta_Prototype.aplication\obj\Debug\net8.0\refint\Conecta_Prototype.Application.dll
+D:\Conecta\Conecta_Prototype\Conecta_Prototype.aplication\obj\Debug\net8.0\Conecta_Prototype.Application.pdb
+D:\Conecta\Conecta_Prototype\Conecta_Prototype.aplication\obj\Debug\net8.0\ref\Conecta_Prototype.Application.dll

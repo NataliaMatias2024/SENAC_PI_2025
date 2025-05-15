@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Conecta_Prototype.Domain/1.0.0": {
+        "runtime": {
+          "Conecta_Prototype.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Conecta_Prototype.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

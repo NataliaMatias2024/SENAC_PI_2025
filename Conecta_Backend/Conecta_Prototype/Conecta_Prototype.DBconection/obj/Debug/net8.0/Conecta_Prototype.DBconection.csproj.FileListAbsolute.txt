@@ -1,0 +1,34 @@
+D:\Rendimentos BK\Conecta\Conecta_Prototype\Conecta_Prototype.DBconection\bin\Debug\net8.0\Conecta_Prototype.DBconection.deps.json
+D:\Rendimentos BK\Conecta\Conecta_Prototype\Conecta_Prototype.DBconection\bin\Debug\net8.0\Conecta_Prototype.DBconection.dll
+D:\Rendimentos BK\Conecta\Conecta_Prototype\Conecta_Prototype.DBconection\bin\Debug\net8.0\Conecta_Prototype.DBconection.pdb
+D:\Rendimentos BK\Conecta\Conecta_Prototype\Conecta_Prototype.DBconection\bin\Debug\net8.0\Conecta_Prototype.Application.dll
+D:\Rendimentos BK\Conecta\Conecta_Prototype\Conecta_Prototype.DBconection\bin\Debug\net8.0\Conecta_Prototype.Domain.dll
+D:\Rendimentos BK\Conecta\Conecta_Prototype\Conecta_Prototype.DBconection\bin\Debug\net8.0\Conecta_Prototype.Application.pdb
+D:\Rendimentos BK\Conecta\Conecta_Prototype\Conecta_Prototype.DBconection\bin\Debug\net8.0\Conecta_Prototype.Domain.pdb
+D:\Rendimentos BK\Conecta\Conecta_Prototype\Conecta_Prototype.DBconection\obj\Debug\net8.0\Conecta_Prototype.DBconection.csproj.AssemblyReference.cache
+D:\Rendimentos BK\Conecta\Conecta_Prototype\Conecta_Prototype.DBconection\obj\Debug\net8.0\Conecta_Prototype.DBconection.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rendimentos BK\Conecta\Conecta_Prototype\Conecta_Prototype.DBconection\obj\Debug\net8.0\Conecta_Prototype.DBconection.AssemblyInfoInputs.cache
+D:\Rendimentos BK\Conecta\Conecta_Prototype\Conecta_Prototype.DBconection\obj\Debug\net8.0\Conecta_Prototype.DBconection.AssemblyInfo.cs
+D:\Rendimentos BK\Conecta\Conecta_Prototype\Conecta_Prototype.DBconection\obj\Debug\net8.0\Conecta_Prototype.DBconection.csproj.CoreCompileInputs.cache
+D:\Rendimentos BK\Conecta\Conecta_Prototype\Conecta_Prototype.DBconection\obj\Debug\net8.0\Conecta_.7AE138B2.Up2Date
+D:\Rendimentos BK\Conecta\Conecta_Prototype\Conecta_Prototype.DBconection\obj\Debug\net8.0\Conecta_Prototype.DBconection.dll
+D:\Rendimentos BK\Conecta\Conecta_Prototype\Conecta_Prototype.DBconection\obj\Debug\net8.0\refint\Conecta_Prototype.DBconection.dll
+D:\Rendimentos BK\Conecta\Conecta_Prototype\Conecta_Prototype.DBconection\obj\Debug\net8.0\Conecta_Prototype.DBconection.pdb
+D:\Rendimentos BK\Conecta\Conecta_Prototype\Conecta_Prototype.DBconection\obj\Debug\net8.0\ref\Conecta_Prototype.DBconection.dll
+D:\Conecta\Conecta_Prototype\Conecta_Prototype.DBconection\bin\Debug\net8.0\Conecta_Prototype.DBconection.deps.json
+D:\Conecta\Conecta_Prototype\Conecta_Prototype.DBconection\bin\Debug\net8.0\Conecta_Prototype.DBconection.dll
+D:\Conecta\Conecta_Prototype\Conecta_Prototype.DBconection\bin\Debug\net8.0\Conecta_Prototype.DBconection.pdb
+D:\Conecta\Conecta_Prototype\Conecta_Prototype.DBconection\bin\Debug\net8.0\Conecta_Prototype.Application.dll
+D:\Conecta\Conecta_Prototype\Conecta_Prototype.DBconection\bin\Debug\net8.0\Conecta_Prototype.Domain.dll
+D:\Conecta\Conecta_Prototype\Conecta_Prototype.DBconection\bin\Debug\net8.0\Conecta_Prototype.Application.pdb
+D:\Conecta\Conecta_Prototype\Conecta_Prototype.DBconection\bin\Debug\net8.0\Conecta_Prototype.Domain.pdb
+D:\Conecta\Conecta_Prototype\Conecta_Prototype.DBconection\obj\Debug\net8.0\Conecta_Prototype.DBconection.csproj.AssemblyReference.cache
+D:\Conecta\Conecta_Prototype\Conecta_Prototype.DBconection\obj\Debug\net8.0\Conecta_Prototype.DBconection.GeneratedMSBuildEditorConfig.editorconfig
+D:\Conecta\Conecta_Prototype\Conecta_Prototype.DBconection\obj\Debug\net8.0\Conecta_Prototype.DBconection.AssemblyInfoInputs.cache
+D:\Conecta\Conecta_Prototype\Conecta_Prototype.DBconection\obj\Debug\net8.0\Conecta_Prototype.DBconection.AssemblyInfo.cs
+D:\Conecta\Conecta_Prototype\Conecta_Prototype.DBconection\obj\Debug\net8.0\Conecta_Prototype.DBconection.csproj.CoreCompileInputs.cache
+D:\Conecta\Conecta_Prototype\Conecta_Prototype.DBconection\obj\Debug\net8.0\Conecta_.7AE138B2.Up2Date
+D:\Conecta\Conecta_Prototype\Conecta_Prototype.DBconection\obj\Debug\net8.0\Conecta_Prototype.DBconection.dll
+D:\Conecta\Conecta_Prototype\Conecta_Prototype.DBconection\obj\Debug\net8.0\refint\Conecta_Prototype.DBconection.dll
+D:\Conecta\Conecta_Prototype\Conecta_Prototype.DBconection\obj\Debug\net8.0\Conecta_Prototype.DBconection.pdb
+D:\Conecta\Conecta_Prototype\Conecta_Prototype.DBconection\obj\Debug\net8.0\ref\Conecta_Prototype.DBconection.dll

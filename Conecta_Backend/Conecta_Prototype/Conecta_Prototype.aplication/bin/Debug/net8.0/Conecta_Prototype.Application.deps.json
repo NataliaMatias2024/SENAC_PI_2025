@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Conecta_Prototype.Application/1.0.0": {
+        "dependencies": {
+          "Conecta_Prototype.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Conecta_Prototype.Application.dll": {}
+        }
+      },
+      "Conecta_Prototype.Domain/1.0.0": {
+        "runtime": {
+          "Conecta_Prototype.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Conecta_Prototype.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Conecta_Prototype.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

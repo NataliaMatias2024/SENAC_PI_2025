@@ -1,0 +1,11 @@
+D:\Rendimentos BK\Conecta\Conecta_Prototype\Conecta_Prototype.aplication\bin\Debug\net8.0\Conecta_Prototype.aplication.deps.json
+D:\Rendimentos BK\Conecta\Conecta_Prototype\Conecta_Prototype.aplication\bin\Debug\net8.0\Conecta_Prototype.aplication.dll
+D:\Rendimentos BK\Conecta\Conecta_Prototype\Conecta_Prototype.aplication\bin\Debug\net8.0\Conecta_Prototype.aplication.pdb
+D:\Rendimentos BK\Conecta\Conecta_Prototype\Conecta_Prototype.aplication\obj\Debug\net8.0\Conecta_Prototype.aplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rendimentos BK\Conecta\Conecta_Prototype\Conecta_Prototype.aplication\obj\Debug\net8.0\Conecta_Prototype.aplication.AssemblyInfoInputs.cache
+D:\Rendimentos BK\Conecta\Conecta_Prototype\Conecta_Prototype.aplication\obj\Debug\net8.0\Conecta_Prototype.aplication.AssemblyInfo.cs
+D:\Rendimentos BK\Conecta\Conecta_Prototype\Conecta_Prototype.aplication\obj\Debug\net8.0\Conecta_Prototype.aplication.csproj.CoreCompileInputs.cache
+D:\Rendimentos BK\Conecta\Conecta_Prototype\Conecta_Prototype.aplication\obj\Debug\net8.0\Conecta_Prototype.aplication.dll
+D:\Rendimentos BK\Conecta\Conecta_Prototype\Conecta_Prototype.aplication\obj\Debug\net8.0\refint\Conecta_Prototype.aplication.dll
+D:\Rendimentos BK\Conecta\Conecta_Prototype\Conecta_Prototype.aplication\obj\Debug\net8.0\Conecta_Prototype.aplication.pdb
+D:\Rendimentos BK\Conecta\Conecta_Prototype\Conecta_Prototype.aplication\obj\Debug\net8.0\ref\Conecta_Prototype.aplication.dll

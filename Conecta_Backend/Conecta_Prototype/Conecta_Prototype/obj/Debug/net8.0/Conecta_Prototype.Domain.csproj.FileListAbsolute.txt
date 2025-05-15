@@ -1,0 +1,22 @@
+D:\Rendimentos BK\Conecta\Conecta_Prototype\Conecta_Prototype\bin\Debug\net8.0\Conecta_Prototype.Domain.deps.json
+D:\Rendimentos BK\Conecta\Conecta_Prototype\Conecta_Prototype\bin\Debug\net8.0\Conecta_Prototype.Domain.dll
+D:\Rendimentos BK\Conecta\Conecta_Prototype\Conecta_Prototype\bin\Debug\net8.0\Conecta_Prototype.Domain.pdb
+D:\Rendimentos BK\Conecta\Conecta_Prototype\Conecta_Prototype\obj\Debug\net8.0\Conecta_Prototype.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rendimentos BK\Conecta\Conecta_Prototype\Conecta_Prototype\obj\Debug\net8.0\Conecta_Prototype.Domain.AssemblyInfoInputs.cache
+D:\Rendimentos BK\Conecta\Conecta_Prototype\Conecta_Prototype\obj\Debug\net8.0\Conecta_Prototype.Domain.AssemblyInfo.cs
+D:\Rendimentos BK\Conecta\Conecta_Prototype\Conecta_Prototype\obj\Debug\net8.0\Conecta_Prototype.Domain.csproj.CoreCompileInputs.cache
+D:\Rendimentos BK\Conecta\Conecta_Prototype\Conecta_Prototype\obj\Debug\net8.0\Conecta_Prototype.Domain.dll
+D:\Rendimentos BK\Conecta\Conecta_Prototype\Conecta_Prototype\obj\Debug\net8.0\refint\Conecta_Prototype.Domain.dll
+D:\Rendimentos BK\Conecta\Conecta_Prototype\Conecta_Prototype\obj\Debug\net8.0\Conecta_Prototype.Domain.pdb
+D:\Rendimentos BK\Conecta\Conecta_Prototype\Conecta_Prototype\obj\Debug\net8.0\ref\Conecta_Prototype.Domain.dll
+D:\Conecta\Conecta_Prototype\Conecta_Prototype\bin\Debug\net8.0\Conecta_Prototype.Domain.deps.json
+D:\Conecta\Conecta_Prototype\Conecta_Prototype\bin\Debug\net8.0\Conecta_Prototype.Domain.dll
+D:\Conecta\Conecta_Prototype\Conecta_Prototype\bin\Debug\net8.0\Conecta_Prototype.Domain.pdb
+D:\Conecta\Conecta_Prototype\Conecta_Prototype\obj\Debug\net8.0\Conecta_Prototype.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Conecta\Conecta_Prototype\Conecta_Prototype\obj\Debug\net8.0\Conecta_Prototype.Domain.AssemblyInfoInputs.cache
+D:\Conecta\Conecta_Prototype\Conecta_Prototype\obj\Debug\net8.0\Conecta_Prototype.Domain.AssemblyInfo.cs
+D:\Conecta\Conecta_Prototype\Conecta_Prototype\obj\Debug\net8.0\Conecta_Prototype.Domain.csproj.CoreCompileInputs.cache
+D:\Conecta\Conecta_Prototype\Conecta_Prototype\obj\Debug\net8.0\Conecta_Prototype.Domain.dll
+D:\Conecta\Conecta_Prototype\Conecta_Prototype\obj\Debug\net8.0\refint\Conecta_Prototype.Domain.dll
+D:\Conecta\Conecta_Prototype\Conecta_Prototype\obj\Debug\net8.0\Conecta_Prototype.Domain.pdb
+D:\Conecta\Conecta_Prototype\Conecta_Prototype\obj\Debug\net8.0\ref\Conecta_Prototype.Domain.dll

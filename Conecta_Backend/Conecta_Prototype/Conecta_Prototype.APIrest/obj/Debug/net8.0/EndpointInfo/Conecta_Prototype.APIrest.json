@@ -1,0 +1,181 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "Conecta_Prototype.APIrest",
+    "version": "1.0"
+  },
+  "paths": {
+    "/PrestadorDeServico/{id}": {
+      "get": {
+        "tags": [
+          "PrestadorDeServico"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/PrestadorDeServico": {
+      "get": {
+        "tags": [
+          "PrestadorDeServico"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      },
+      "post": {
+        "tags": [
+          "PrestadorDeServico"
+        ],
+        "requestBody": {
+          "content": {
+            "multipart/form-data": {
+              "schema": {
+                "required": [
+                  "AreasDeAtuacao",
+                  "Cidade",
+                  "CPF",
+                  "DataNascimento",
+                  "Email",
+                  "Endereco",
+                  "Estado",
+                  "Nome",
+                  "Senha"
+                ],
+                "type": "object",
+                "properties": {
+                  "CPF": {
+                    "type": "string"
+                  },
+                  "CNPJ": {
+                    "type": "string"
+                  },
+                  "Nome": {
+                    "type": "string"
+                  },
+                  "Endereco": {
+                    "type": "string"
+                  },
+                  "AreasDeAtuacao": {
+                    "type": "array",
+                    "items": {
+                      "type": "string"
+                    }
+                  },
+                  "ImagemLogo": {
+                    "type": "string"
+                  },
+                  "ImagensTrabalhos": {
+                    "type": "array",
+                    "items": {
+                      "type": "string"
+                    }
+                  },
+                  "Cidade": {
+                    "type": "string"
+                  },
+                  "Estado": {
+                    "type": "string"
+                  },
+                  "Telefone": {
+                    "type": "string"
+                  },
+                  "Email": {
+                    "type": "string"
+                  },
+                  "Senha": {
+                    "type": "string"
+                  },
+                  "DataNascimento": {
+                    "type": "string"
+                  },
+                  "Genero": {
+                    "type": "string"
+                  },
+                  "TelefoneCelular": {
+                    "type": "string"
+                  },
+                  "CEP": {
+                    "type": "string"
+                  }
+                }
+              },
+              "encoding": {
+                "CPF": {
+                  "style": "form"
+                },
+                "CNPJ": {
+                  "style": "form"
+                },
+                "Nome": {
+                  "style": "form"
+                },
+                "Endereco": {
+                  "style": "form"
+                },
+                "AreasDeAtuacao": {
+                  "style": "form"
+                },
+                "ImagemLogo": {
+                  "style": "form"
+                },
+                "ImagensTrabalhos": {
+                  "style": "form"
+                },
+                "Cidade": {
+                  "style": "form"
+                },
+                "Estado": {
+                  "style": "form"
+                },
+                "Telefone": {
+                  "style": "form"
+                },
+                "Email": {
+                  "style": "form"
+                },
+                "Senha": {
+                  "style": "form"
+                },
+                "DataNascimento": {
+                  "style": "form"
+                },
+                "Genero": {
+                  "style": "form"
+                },
+                "TelefoneCelular": {
+                  "style": "form"
+                },
+                "CEP": {
+                  "style": "form"
+                }
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": { }
+}
