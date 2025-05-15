@@ -15,7 +15,7 @@ Plataforma para conectar clientes a profissionais autônomos, com foco em recém
 - Natalia Matias P. da Silva
 - Melquisedeque Alves Lourenço 
 - Beltrano Souza – RA XXXXXXX
-
+- Adonias Valdivino de oliveira neto 
 ### Como executar o projeto
 
 1. Clonar o repositório
