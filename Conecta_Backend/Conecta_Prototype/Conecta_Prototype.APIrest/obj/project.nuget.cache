@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7EOLETHKGpc=",
+  "dgSpecHash": "TP9x5pLS8No=",
   "success": true,
-  "projectFilePath": "C:\\Users\\luiz.barcelos\\Source\\Repos\\SENAC_PI_2025\\Conecta_Backend\\Conecta_Prototype\\Conecta_Prototype.APIrest\\Conecta_Prototype.APIrest.csproj",
+  "projectFilePath": "D:\\SENAC_PI_2025\\Conecta_Backend\\Conecta_Prototype\\Conecta_Prototype.APIrest\\Conecta_Prototype.APIrest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\luiz.barcelos\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\luiz.barcelos\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\7.0.0\\microsoft.aspnetcore.jsonpatch.7.0.0.nupkg.sha512",

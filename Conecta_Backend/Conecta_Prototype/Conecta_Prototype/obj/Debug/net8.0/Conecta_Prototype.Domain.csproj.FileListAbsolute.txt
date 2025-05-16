@@ -20,3 +20,15 @@ D:\Conecta\Conecta_Prototype\Conecta_Prototype\obj\Debug\net8.0\Conecta_Prototyp
 D:\Conecta\Conecta_Prototype\Conecta_Prototype\obj\Debug\net8.0\refint\Conecta_Prototype.Domain.dll
 D:\Conecta\Conecta_Prototype\Conecta_Prototype\obj\Debug\net8.0\Conecta_Prototype.Domain.pdb
 D:\Conecta\Conecta_Prototype\Conecta_Prototype\obj\Debug\net8.0\ref\Conecta_Prototype.Domain.dll
+D:\SENAC_PI_2025\Conecta_Backend\Conecta_Prototype\Conecta_Prototype\bin\Debug\net8.0\Conecta_Prototype.Domain.deps.json
+D:\SENAC_PI_2025\Conecta_Backend\Conecta_Prototype\Conecta_Prototype\bin\Debug\net8.0\Conecta_Prototype.Domain.dll
+D:\SENAC_PI_2025\Conecta_Backend\Conecta_Prototype\Conecta_Prototype\bin\Debug\net8.0\Conecta_Prototype.Domain.pdb
+D:\SENAC_PI_2025\Conecta_Backend\Conecta_Prototype\Conecta_Prototype\obj\Debug\net8.0\Conecta_Prototype.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\SENAC_PI_2025\Conecta_Backend\Conecta_Prototype\Conecta_Prototype\obj\Debug\net8.0\Conecta_Prototype.Domain.AssemblyInfoInputs.cache
+D:\SENAC_PI_2025\Conecta_Backend\Conecta_Prototype\Conecta_Prototype\obj\Debug\net8.0\Conecta_Prototype.Domain.AssemblyInfo.cs
+D:\SENAC_PI_2025\Conecta_Backend\Conecta_Prototype\Conecta_Prototype\obj\Debug\net8.0\Conecta_Prototype.Domain.csproj.CoreCompileInputs.cache
+D:\SENAC_PI_2025\Conecta_Backend\Conecta_Prototype\Conecta_Prototype\obj\Debug\net8.0\Conecta_Prototype.Domain.sourcelink.json
+D:\SENAC_PI_2025\Conecta_Backend\Conecta_Prototype\Conecta_Prototype\obj\Debug\net8.0\Conecta_Prototype.Domain.dll
+D:\SENAC_PI_2025\Conecta_Backend\Conecta_Prototype\Conecta_Prototype\obj\Debug\net8.0\refint\Conecta_Prototype.Domain.dll
+D:\SENAC_PI_2025\Conecta_Backend\Conecta_Prototype\Conecta_Prototype\obj\Debug\net8.0\Conecta_Prototype.Domain.pdb
+D:\SENAC_PI_2025\Conecta_Backend\Conecta_Prototype\Conecta_Prototype\obj\Debug\net8.0\ref\Conecta_Prototype.Domain.dll

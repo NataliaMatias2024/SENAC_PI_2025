@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\luiz.barcelos\\Source\\Repos\\SENAC_PI_2025\\Conecta_Backend\\Conecta_Prototype\\Conecta_Prototype\\Conecta_Prototype.Domain.csproj",
+      "projectUniqueName": "D:\\SENAC_PI_2025\\Conecta_Backend\\Conecta_Prototype\\Conecta_Prototype\\Conecta_Prototype.Domain.csproj",
       "projectName": "Conecta_Prototype.Domain",
-      "projectPath": "C:\\Users\\luiz.barcelos\\Source\\Repos\\SENAC_PI_2025\\Conecta_Backend\\Conecta_Prototype\\Conecta_Prototype\\Conecta_Prototype.Domain.csproj",
+      "projectPath": "D:\\SENAC_PI_2025\\Conecta_Backend\\Conecta_Prototype\\Conecta_Prototype\\Conecta_Prototype.Domain.csproj",
       "packagesPath": "C:\\Users\\luiz.barcelos\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\luiz.barcelos\\Source\\Repos\\SENAC_PI_2025\\Conecta_Backend\\Conecta_Prototype\\Conecta_Prototype\\obj\\",
+      "outputPath": "D:\\SENAC_PI_2025\\Conecta_Backend\\Conecta_Prototype\\Conecta_Prototype\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

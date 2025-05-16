@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Conecta_Prototype.DBconection")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b0c6a8c89000aa0acf6a633af7452251ba25ccb4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8c1151f5c77c89a9bb0c7e534e20cded77ca5a7b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Conecta_Prototype.DBconection")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Conecta_Prototype.DBconection")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\luiz.barcelos\\Source\\Repos\\SENAC_PI_2025\\Conecta_Backend\\Conecta_Prototype\\Conecta_Prototype.APIrest\\Conecta_Prototype.APIrest.csproj": {}
+    "D:\\SENAC_PI_2025\\Conecta_Backend\\Conecta_Prototype\\Conecta_Prototype.APIrest\\Conecta_Prototype.APIrest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\luiz.barcelos\\Source\\Repos\\SENAC_PI_2025\\Conecta_Backend\\Conecta_Prototype\\Conecta_Prototype.APIrest\\Conecta_Prototype.APIrest.csproj": {
+    "D:\\SENAC_PI_2025\\Conecta_Backend\\Conecta_Prototype\\Conecta_Prototype.APIrest\\Conecta_Prototype.APIrest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\luiz.barcelos\\Source\\Repos\\SENAC_PI_2025\\Conecta_Backend\\Conecta_Prototype\\Conecta_Prototype.APIrest\\Conecta_Prototype.APIrest.csproj",
+        "projectUniqueName": "D:\\SENAC_PI_2025\\Conecta_Backend\\Conecta_Prototype\\Conecta_Prototype.APIrest\\Conecta_Prototype.APIrest.csproj",
         "projectName": "Conecta_Prototype.APIrest",
-        "projectPath": "C:\\Users\\luiz.barcelos\\Source\\Repos\\SENAC_PI_2025\\Conecta_Backend\\Conecta_Prototype\\Conecta_Prototype.APIrest\\Conecta_Prototype.APIrest.csproj",
+        "projectPath": "D:\\SENAC_PI_2025\\Conecta_Backend\\Conecta_Prototype\\Conecta_Prototype.APIrest\\Conecta_Prototype.APIrest.csproj",
         "packagesPath": "C:\\Users\\luiz.barcelos\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\luiz.barcelos\\Source\\Repos\\SENAC_PI_2025\\Conecta_Backend\\Conecta_Prototype\\Conecta_Prototype.APIrest\\obj\\",
+        "outputPath": "D:\\SENAC_PI_2025\\Conecta_Backend\\Conecta_Prototype\\Conecta_Prototype.APIrest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,14 +33,14 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\luiz.barcelos\\Source\\Repos\\SENAC_PI_2025\\Conecta_Backend\\Conecta_Prototype\\Conecta_Prototype.aplication\\Conecta_Prototype.Application.csproj": {
-                "projectPath": "C:\\Users\\luiz.barcelos\\Source\\Repos\\SENAC_PI_2025\\Conecta_Backend\\Conecta_Prototype\\Conecta_Prototype.aplication\\Conecta_Prototype.Application.csproj"
+              "D:\\SENAC_PI_2025\\Conecta_Backend\\Conecta_Prototype\\Conecta_Prototype.aplication\\Conecta_Prototype.Application.csproj": {
+                "projectPath": "D:\\SENAC_PI_2025\\Conecta_Backend\\Conecta_Prototype\\Conecta_Prototype.aplication\\Conecta_Prototype.Application.csproj"
               },
-              "C:\\Users\\luiz.barcelos\\Source\\Repos\\SENAC_PI_2025\\Conecta_Backend\\Conecta_Prototype\\Conecta_Prototype.DBconection\\Conecta_Prototype.DBconection.csproj": {
-                "projectPath": "C:\\Users\\luiz.barcelos\\Source\\Repos\\SENAC_PI_2025\\Conecta_Backend\\Conecta_Prototype\\Conecta_Prototype.DBconection\\Conecta_Prototype.DBconection.csproj"
+              "D:\\SENAC_PI_2025\\Conecta_Backend\\Conecta_Prototype\\Conecta_Prototype.DBconection\\Conecta_Prototype.DBconection.csproj": {
+                "projectPath": "D:\\SENAC_PI_2025\\Conecta_Backend\\Conecta_Prototype\\Conecta_Prototype.DBconection\\Conecta_Prototype.DBconection.csproj"
               },
-              "C:\\Users\\luiz.barcelos\\Source\\Repos\\SENAC_PI_2025\\Conecta_Backend\\Conecta_Prototype\\Conecta_Prototype\\Conecta_Prototype.Domain.csproj": {
-                "projectPath": "C:\\Users\\luiz.barcelos\\Source\\Repos\\SENAC_PI_2025\\Conecta_Backend\\Conecta_Prototype\\Conecta_Prototype\\Conecta_Prototype.Domain.csproj"
+              "D:\\SENAC_PI_2025\\Conecta_Backend\\Conecta_Prototype\\Conecta_Prototype\\Conecta_Prototype.Domain.csproj": {
+                "projectPath": "D:\\SENAC_PI_2025\\Conecta_Backend\\Conecta_Prototype\\Conecta_Prototype\\Conecta_Prototype.Domain.csproj"
               }
             }
           }
@@ -103,14 +103,14 @@
         }
       }
     },
-    "C:\\Users\\luiz.barcelos\\Source\\Repos\\SENAC_PI_2025\\Conecta_Backend\\Conecta_Prototype\\Conecta_Prototype.aplication\\Conecta_Prototype.Application.csproj": {
+    "D:\\SENAC_PI_2025\\Conecta_Backend\\Conecta_Prototype\\Conecta_Prototype.aplication\\Conecta_Prototype.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\luiz.barcelos\\Source\\Repos\\SENAC_PI_2025\\Conecta_Backend\\Conecta_Prototype\\Conecta_Prototype.aplication\\Conecta_Prototype.Application.csproj",
+        "projectUniqueName": "D:\\SENAC_PI_2025\\Conecta_Backend\\Conecta_Prototype\\Conecta_Prototype.aplication\\Conecta_Prototype.Application.csproj",
         "projectName": "Conecta_Prototype.Application",
-        "projectPath": "C:\\Users\\luiz.barcelos\\Source\\Repos\\SENAC_PI_2025\\Conecta_Backend\\Conecta_Prototype\\Conecta_Prototype.aplication\\Conecta_Prototype.Application.csproj",
+        "projectPath": "D:\\SENAC_PI_2025\\Conecta_Backend\\Conecta_Prototype\\Conecta_Prototype.aplication\\Conecta_Prototype.Application.csproj",
         "packagesPath": "C:\\Users\\luiz.barcelos\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\luiz.barcelos\\Source\\Repos\\SENAC_PI_2025\\Conecta_Backend\\Conecta_Prototype\\Conecta_Prototype.aplication\\obj\\",
+        "outputPath": "D:\\SENAC_PI_2025\\Conecta_Backend\\Conecta_Prototype\\Conecta_Prototype.aplication\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -132,8 +132,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\luiz.barcelos\\Source\\Repos\\SENAC_PI_2025\\Conecta_Backend\\Conecta_Prototype\\Conecta_Prototype\\Conecta_Prototype.Domain.csproj": {
-                "projectPath": "C:\\Users\\luiz.barcelos\\Source\\Repos\\SENAC_PI_2025\\Conecta_Backend\\Conecta_Prototype\\Conecta_Prototype\\Conecta_Prototype.Domain.csproj"
+              "D:\\SENAC_PI_2025\\Conecta_Backend\\Conecta_Prototype\\Conecta_Prototype\\Conecta_Prototype.Domain.csproj": {
+                "projectPath": "D:\\SENAC_PI_2025\\Conecta_Backend\\Conecta_Prototype\\Conecta_Prototype\\Conecta_Prototype.Domain.csproj"
               }
             }
           }
@@ -173,14 +173,14 @@
         }
       }
     },
-    "C:\\Users\\luiz.barcelos\\Source\\Repos\\SENAC_PI_2025\\Conecta_Backend\\Conecta_Prototype\\Conecta_Prototype.DBconection\\Conecta_Prototype.DBconection.csproj": {
+    "D:\\SENAC_PI_2025\\Conecta_Backend\\Conecta_Prototype\\Conecta_Prototype.DBconection\\Conecta_Prototype.DBconection.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\luiz.barcelos\\Source\\Repos\\SENAC_PI_2025\\Conecta_Backend\\Conecta_Prototype\\Conecta_Prototype.DBconection\\Conecta_Prototype.DBconection.csproj",
+        "projectUniqueName": "D:\\SENAC_PI_2025\\Conecta_Backend\\Conecta_Prototype\\Conecta_Prototype.DBconection\\Conecta_Prototype.DBconection.csproj",
         "projectName": "Conecta_Prototype.DBconection",
-        "projectPath": "C:\\Users\\luiz.barcelos\\Source\\Repos\\SENAC_PI_2025\\Conecta_Backend\\Conecta_Prototype\\Conecta_Prototype.DBconection\\Conecta_Prototype.DBconection.csproj",
+        "projectPath": "D:\\SENAC_PI_2025\\Conecta_Backend\\Conecta_Prototype\\Conecta_Prototype.DBconection\\Conecta_Prototype.DBconection.csproj",
         "packagesPath": "C:\\Users\\luiz.barcelos\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\luiz.barcelos\\Source\\Repos\\SENAC_PI_2025\\Conecta_Backend\\Conecta_Prototype\\Conecta_Prototype.DBconection\\obj\\",
+        "outputPath": "D:\\SENAC_PI_2025\\Conecta_Backend\\Conecta_Prototype\\Conecta_Prototype.DBconection\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -202,11 +202,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\luiz.barcelos\\Source\\Repos\\SENAC_PI_2025\\Conecta_Backend\\Conecta_Prototype\\Conecta_Prototype.aplication\\Conecta_Prototype.Application.csproj": {
-                "projectPath": "C:\\Users\\luiz.barcelos\\Source\\Repos\\SENAC_PI_2025\\Conecta_Backend\\Conecta_Prototype\\Conecta_Prototype.aplication\\Conecta_Prototype.Application.csproj"
+              "D:\\SENAC_PI_2025\\Conecta_Backend\\Conecta_Prototype\\Conecta_Prototype.aplication\\Conecta_Prototype.Application.csproj": {
+                "projectPath": "D:\\SENAC_PI_2025\\Conecta_Backend\\Conecta_Prototype\\Conecta_Prototype.aplication\\Conecta_Prototype.Application.csproj"
               },
-              "C:\\Users\\luiz.barcelos\\Source\\Repos\\SENAC_PI_2025\\Conecta_Backend\\Conecta_Prototype\\Conecta_Prototype\\Conecta_Prototype.Domain.csproj": {
-                "projectPath": "C:\\Users\\luiz.barcelos\\Source\\Repos\\SENAC_PI_2025\\Conecta_Backend\\Conecta_Prototype\\Conecta_Prototype\\Conecta_Prototype.Domain.csproj"
+              "D:\\SENAC_PI_2025\\Conecta_Backend\\Conecta_Prototype\\Conecta_Prototype\\Conecta_Prototype.Domain.csproj": {
+                "projectPath": "D:\\SENAC_PI_2025\\Conecta_Backend\\Conecta_Prototype\\Conecta_Prototype\\Conecta_Prototype.Domain.csproj"
               }
             }
           }
@@ -252,14 +252,14 @@
         }
       }
     },
-    "C:\\Users\\luiz.barcelos\\Source\\Repos\\SENAC_PI_2025\\Conecta_Backend\\Conecta_Prototype\\Conecta_Prototype\\Conecta_Prototype.Domain.csproj": {
+    "D:\\SENAC_PI_2025\\Conecta_Backend\\Conecta_Prototype\\Conecta_Prototype\\Conecta_Prototype.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\luiz.barcelos\\Source\\Repos\\SENAC_PI_2025\\Conecta_Backend\\Conecta_Prototype\\Conecta_Prototype\\Conecta_Prototype.Domain.csproj",
+        "projectUniqueName": "D:\\SENAC_PI_2025\\Conecta_Backend\\Conecta_Prototype\\Conecta_Prototype\\Conecta_Prototype.Domain.csproj",
         "projectName": "Conecta_Prototype.Domain",
-        "projectPath": "C:\\Users\\luiz.barcelos\\Source\\Repos\\SENAC_PI_2025\\Conecta_Backend\\Conecta_Prototype\\Conecta_Prototype\\Conecta_Prototype.Domain.csproj",
+        "projectPath": "D:\\SENAC_PI_2025\\Conecta_Backend\\Conecta_Prototype\\Conecta_Prototype\\Conecta_Prototype.Domain.csproj",
         "packagesPath": "C:\\Users\\luiz.barcelos\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\luiz.barcelos\\Source\\Repos\\SENAC_PI_2025\\Conecta_Backend\\Conecta_Prototype\\Conecta_Prototype\\obj\\",
+        "outputPath": "D:\\SENAC_PI_2025\\Conecta_Backend\\Conecta_Prototype\\Conecta_Prototype\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
