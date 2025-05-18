@@ -1,7 +1,16 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\SENAC_PI_2025\\Conecta_Backend\\Conecta_Prototype\\",
-  "Documents": [],
+  "WorkspaceRootPath": "D:\\ConectaProjeto\\SENAC_PI_2025\\Conecta_Backend\\Conecta_Prototype\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{365F0D47-BCF7-4FFD-A738-76F98FFB58B9}|Conecta_Prototype.APIrest\\Conecta_Prototype.APIrest.csproj|d:\\conectaprojeto\\senac_pi_2025\\conecta_backend\\conecta_prototype\\conecta_prototype.apirest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{365F0D47-BCF7-4FFD-A738-76F98FFB58B9}|Conecta_Prototype.APIrest\\Conecta_Prototype.APIrest.csproj|solutionrelative:conecta_prototype.apirest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{365F0D47-BCF7-4FFD-A738-76F98FFB58B9}|Conecta_Prototype.APIrest\\Conecta_Prototype.APIrest.csproj|d:\\conectaprojeto\\senac_pi_2025\\conecta_backend\\conecta_prototype\\conecta_prototype.apirest\\conecta_prototype.apirest.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{365F0D47-BCF7-4FFD-A738-76F98FFB58B9}|Conecta_Prototype.APIrest\\Conecta_Prototype.APIrest.csproj|solutionrelative:conecta_prototype.apirest\\conecta_prototype.apirest.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,8 +18,38 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Conecta_Prototype.APIrest.http",
+              "DocumentMoniker": "D:\\ConectaProjeto\\SENAC_PI_2025\\Conecta_Backend\\Conecta_Prototype\\Conecta_Prototype.APIrest\\Conecta_Prototype.APIrest.http",
+              "RelativeDocumentMoniker": "Conecta_Prototype.APIrest\\Conecta_Prototype.APIrest.http",
+              "ToolTip": "D:\\ConectaProjeto\\SENAC_PI_2025\\Conecta_Backend\\Conecta_Prototype\\Conecta_Prototype.APIrest\\Conecta_Prototype.APIrest.http",
+              "RelativeToolTip": "Conecta_Prototype.APIrest\\Conecta_Prototype.APIrest.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-05-18T03:50:41.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ConectaProjeto\\SENAC_PI_2025\\Conecta_Backend\\Conecta_Prototype\\Conecta_Prototype.APIrest\\Program.cs",
+              "RelativeDocumentMoniker": "Conecta_Prototype.APIrest\\Program.cs",
+              "ToolTip": "D:\\ConectaProjeto\\SENAC_PI_2025\\Conecta_Backend\\Conecta_Prototype\\Conecta_Prototype.APIrest\\Program.cs",
+              "RelativeToolTip": "Conecta_Prototype.APIrest\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T03:49:06.857Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"

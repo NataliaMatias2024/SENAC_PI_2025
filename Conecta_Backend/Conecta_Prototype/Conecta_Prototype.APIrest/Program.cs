@@ -9,6 +9,16 @@ using Conecta_Prototype.DBconection;
 
 var builder = WebApplication.CreateBuilder(args);
 
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("AllowMyOrigin", builder =>
+    {
+        builder.WithOrigins("http://localhost:5173")
+               .AllowAnyHeader()
+               .AllowAnyMethod();
+    });
+});
+
 builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
@@ -30,9 +40,9 @@ if (app.Environment.IsDevelopment())
     app.UseDeveloperExceptionPage();
 }
 
+app.UseCors("AllowMyOrigin");
 app.UseHttpsRedirection();
 app.UseRouting();
-app.UseAuthorization();
 app.MapControllers();
 
 app.UseStaticFiles(new StaticFileOptions
@@ -43,5 +53,3 @@ app.UseStaticFiles(new StaticFileOptions
 });
 
 app.Run();
-
-

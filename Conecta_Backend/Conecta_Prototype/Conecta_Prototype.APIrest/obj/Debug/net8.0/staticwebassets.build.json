@@ -1,12 +1,11 @@
 {
   "Version": 1,
-  "Hash": "BXg1X4oIS5/5GFpo8TRiNkc9juvsmx9JwUJNsDsicms=",
+  "Hash": "YmWxsNsiMqw+u0sLPiKoyjO+d+sqwtgFUR7BtSKsNn4=",
   "Source": "Conecta_Prototype.APIrest",
   "BasePath": "_content/Conecta_Prototype.APIrest",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [],
-  "Assets": [],
-  "Endpoints": []
+  "Assets": []
 }
