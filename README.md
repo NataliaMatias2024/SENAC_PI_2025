@@ -26,12 +26,13 @@ Plataforma para conectar clientes a profissionais autônomos, com foco em recém
 ### Como executar o projeto
 
 1. Clonar o repositório
-2. Rodar `npm install` no frontend
-3. Verificar o caminho até os projetos no arquivo "start-dev.bat" no root do Front (O caminho para o backend deve ser até a root "Conecta_Prototype.APIrest" e para o Frontend "Conecta_Prototype")
-4. O banco de dados SQLite está embutido nos arquivos do Backend
-5. Executar o comando "npm run back" (O backend rodará em localhost e pode ser testado na seguinte url "http://localhost:{Sua porta de conexão local, verificar no terminal}/swagger/index.html")
-6. Abrir um novo terminal e executar o comando "npm run dev" (Abrirá o ambiente de desenvolvimento do Frontend em localhost)
-7. Ambos os projetos estarão rodando em terminais diferentes
+2. Abrir o vsCode -> File -> Open Folder... -> Selecionar a pasta do repositório clonado
+3. Abra um novo terminal no vsCode e acesse a pasta ".\Conecta_Backend\Conecta_Prototype\Conecta_Prototype.APIrest" (utilizar o comando: cd {atalho ate a pasta desejada})
+4. Rodar o comando "dotnet run" (O backend poderá ser testado na seguinte url "http://localhost:{Sua porta de conexão local sinalisada no terminal}/swagger/index.html")
+5. O banco de dados utilizado é o SQLite e está embutido nos arquivos do Backend
+6. Abra um novo terminal e acesse a pasta ".\Conecta_Frontend\Conecta_Prototype" (utilizar o comando: cd {atalho ate a pasta desejada})
+7. Rodar os comando "npm install", "npm install react-router-dom" e por fim "npm run dev" isso irá executar a parte do front no http://localhost:5173/ (porta padrão do Vite)
+12. Ambos os projetos estarão rodando em terminais diferentes
 
 ### Vídeo de Apresentação
 
