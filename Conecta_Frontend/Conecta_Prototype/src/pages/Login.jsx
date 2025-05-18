@@ -17,21 +17,22 @@ function Login() {
   };
 
   return (
-    <div
-      className="d-flex justify-content-center align-items-center vh-100"
+   <div
+      className="d-flex justify-content-center align-items-center min-vh-100"
       style={{
         background: 'linear-gradient(135deg, #1C88EB, #4014F0)',
+        padding: '20px',
       }}
     >
       <div
-        className="card shadow-lg rounded-4 p-4"
+        className="card shadow-lg rounded-4 p-4 w-100"
         style={{
-          width: '100%',
-          maxWidth: '400px',
+          maxWidth: '420px',
           backgroundColor: '#ffffffee',
           border: '1px solid #1AEBDB',
         }}
       >
+
         <div className="text-center mb-4">
           <h2 className="fw-bold" style={{ color: '#1630F0' }}>Login</h2>
           <p className="text-muted small">Acesse sua conta para gerenciar serviços</p>

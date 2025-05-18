@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Conecta_Prototype.APIrest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dbede23be400ab65bdff909ff6bf18b79bbe739e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0b66a57806cb48b29e720230d0fefd34dda28aaf")]
 [assembly: System.Reflection.AssemblyProductAttribute("Conecta_Prototype.APIrest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Conecta_Prototype.APIrest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
