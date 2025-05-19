@@ -44,3 +44,15 @@ D:\ConectaProjeto\SENAC_PI_2025\Conecta_Backend\Conecta_Prototype\Conecta_Protot
 D:\ConectaProjeto\SENAC_PI_2025\Conecta_Backend\Conecta_Prototype\Conecta_Prototype\obj\Debug\net8.0\refint\Conecta_Prototype.Domain.dll
 D:\ConectaProjeto\SENAC_PI_2025\Conecta_Backend\Conecta_Prototype\Conecta_Prototype\obj\Debug\net8.0\Conecta_Prototype.Domain.pdb
 D:\ConectaProjeto\SENAC_PI_2025\Conecta_Backend\Conecta_Prototype\Conecta_Prototype\obj\Debug\net8.0\ref\Conecta_Prototype.Domain.dll
+C:\Users\natal\Desktop\SENAC_PI_2025\Conecta_Backend\Conecta_Prototype\Conecta_Prototype\bin\Debug\net8.0\Conecta_Prototype.Domain.deps.json
+C:\Users\natal\Desktop\SENAC_PI_2025\Conecta_Backend\Conecta_Prototype\Conecta_Prototype\bin\Debug\net8.0\Conecta_Prototype.Domain.dll
+C:\Users\natal\Desktop\SENAC_PI_2025\Conecta_Backend\Conecta_Prototype\Conecta_Prototype\bin\Debug\net8.0\Conecta_Prototype.Domain.pdb
+C:\Users\natal\Desktop\SENAC_PI_2025\Conecta_Backend\Conecta_Prototype\Conecta_Prototype\obj\Debug\net8.0\Conecta_Prototype.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natal\Desktop\SENAC_PI_2025\Conecta_Backend\Conecta_Prototype\Conecta_Prototype\obj\Debug\net8.0\Conecta_Prototype.Domain.AssemblyInfoInputs.cache
+C:\Users\natal\Desktop\SENAC_PI_2025\Conecta_Backend\Conecta_Prototype\Conecta_Prototype\obj\Debug\net8.0\Conecta_Prototype.Domain.AssemblyInfo.cs
+C:\Users\natal\Desktop\SENAC_PI_2025\Conecta_Backend\Conecta_Prototype\Conecta_Prototype\obj\Debug\net8.0\Conecta_Prototype.Domain.csproj.CoreCompileInputs.cache
+C:\Users\natal\Desktop\SENAC_PI_2025\Conecta_Backend\Conecta_Prototype\Conecta_Prototype\obj\Debug\net8.0\Conecta_Prototype.Domain.sourcelink.json
+C:\Users\natal\Desktop\SENAC_PI_2025\Conecta_Backend\Conecta_Prototype\Conecta_Prototype\obj\Debug\net8.0\Conecta_Prototype.Domain.dll
+C:\Users\natal\Desktop\SENAC_PI_2025\Conecta_Backend\Conecta_Prototype\Conecta_Prototype\obj\Debug\net8.0\refint\Conecta_Prototype.Domain.dll
+C:\Users\natal\Desktop\SENAC_PI_2025\Conecta_Backend\Conecta_Prototype\Conecta_Prototype\obj\Debug\net8.0\Conecta_Prototype.Domain.pdb
+C:\Users\natal\Desktop\SENAC_PI_2025\Conecta_Backend\Conecta_Prototype\Conecta_Prototype\obj\Debug\net8.0\ref\Conecta_Prototype.Domain.dll

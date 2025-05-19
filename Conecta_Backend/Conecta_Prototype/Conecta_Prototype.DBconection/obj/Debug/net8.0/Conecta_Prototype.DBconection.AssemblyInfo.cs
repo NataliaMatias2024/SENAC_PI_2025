@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Conecta_Prototype.DBconection")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dbede23be400ab65bdff909ff6bf18b79bbe739e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7d07321e85e7b5260fc5f4d661478756d3bf32f1")]
 [assembly: System.Reflection.AssemblyProductAttribute("Conecta_Prototype.DBconection")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Conecta_Prototype.DBconection")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

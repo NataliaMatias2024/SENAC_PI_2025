@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Conecta_Prototype.APIrest.props" />
+</Project>
