@@ -5,7 +5,7 @@
 Plataforma para conectar clientes a profissionais autônomos, com foco em recém-formados.
 
 ### Tecnologias
-- Frontend: Vite.dev + React.js + Tailwind CSS
+- Frontend: Vite.dev + React.js + Bootstrap CSS
 - Backend: C# DOTNET 8.0
 - Banco de Dados: SQLite
 - Node.js
@@ -14,6 +14,7 @@ Plataforma para conectar clientes a profissionais autônomos, com foco em recém
 - react: ^19.1.0
 - eslint: ^9.25.0
 - vite: ^6.3.5
+- "bootstrap": ^5.3.6
 
 ### Integrantes
 - Natalia Matias P. da Silva
