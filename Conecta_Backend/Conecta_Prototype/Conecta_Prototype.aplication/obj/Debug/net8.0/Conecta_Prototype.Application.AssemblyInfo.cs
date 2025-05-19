@@ -13,7 +13,11 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Conecta_Prototype.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
+<<<<<<< HEAD
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5bcbf879c81d918eaf2597309dec00336f371e43")]
+=======
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c73bd8762b96557ba713e45bb354931539553aa5")]
+>>>>>>> 8dd1fcc31e6f4617745d9262af5f191c582d9a99
 [assembly: System.Reflection.AssemblyProductAttribute("Conecta_Prototype.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Conecta_Prototype.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

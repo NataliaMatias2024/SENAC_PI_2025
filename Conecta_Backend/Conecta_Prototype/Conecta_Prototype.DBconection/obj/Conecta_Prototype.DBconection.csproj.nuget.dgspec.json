@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "D:\\SENAC_PI_2025\\Conecta_Backend\\Conecta_Prototype\\Conecta_Prototype.DBconection\\Conecta_Prototype.DBconection.csproj": {}
   },
   "projects": {
@@ -12,29 +13,55 @@
         "projectPath": "D:\\SENAC_PI_2025\\Conecta_Backend\\Conecta_Prototype\\Conecta_Prototype.aplication\\Conecta_Prototype.Application.csproj",
         "packagesPath": "C:\\Users\\luiz.barcelos\\.nuget\\packages\\",
         "outputPath": "D:\\SENAC_PI_2025\\Conecta_Backend\\Conecta_Prototype\\Conecta_Prototype.aplication\\obj\\",
+=======
+    "C:\\Users\\natal\\Desktop\\SENAC_PI_2025\\Conecta_Backend\\Conecta_Prototype\\Conecta_Prototype.DBconection\\Conecta_Prototype.DBconection.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\natal\\Desktop\\SENAC_PI_2025\\Conecta_Backend\\Conecta_Prototype\\Conecta_Prototype.aplication\\Conecta_Prototype.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\natal\\Desktop\\SENAC_PI_2025\\Conecta_Backend\\Conecta_Prototype\\Conecta_Prototype.aplication\\Conecta_Prototype.Application.csproj",
+        "projectName": "Conecta_Prototype.Application",
+        "projectPath": "C:\\Users\\natal\\Desktop\\SENAC_PI_2025\\Conecta_Backend\\Conecta_Prototype\\Conecta_Prototype.aplication\\Conecta_Prototype.Application.csproj",
+        "packagesPath": "C:\\Users\\natal\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\natal\\Desktop\\SENAC_PI_2025\\Conecta_Backend\\Conecta_Prototype\\Conecta_Prototype.aplication\\obj\\",
+>>>>>>> 8dd1fcc31e6f4617745d9262af5f191c582d9a99
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
+<<<<<<< HEAD
           "C:\\Users\\luiz.barcelos\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+=======
+          "C:\\Users\\natal\\AppData\\Roaming\\NuGet\\NuGet.Config"
+>>>>>>> 8dd1fcc31e6f4617745d9262af5f191c582d9a99
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+<<<<<<< HEAD
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {},
           "https://nuget.useall.com.br/nuget": {}
+=======
+          "https://api.nuget.org/v3/index.json": {}
+>>>>>>> 8dd1fcc31e6f4617745d9262af5f191c582d9a99
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
+<<<<<<< HEAD
               "D:\\SENAC_PI_2025\\Conecta_Backend\\Conecta_Prototype\\Conecta_Prototype\\Conecta_Prototype.Domain.csproj": {
                 "projectPath": "D:\\SENAC_PI_2025\\Conecta_Backend\\Conecta_Prototype\\Conecta_Prototype\\Conecta_Prototype.Domain.csproj"
+=======
+              "C:\\Users\\natal\\Desktop\\SENAC_PI_2025\\Conecta_Backend\\Conecta_Prototype\\Conecta_Prototype\\Conecta_Prototype.Domain.csproj": {
+                "projectPath": "C:\\Users\\natal\\Desktop\\SENAC_PI_2025\\Conecta_Backend\\Conecta_Prototype\\Conecta_Prototype\\Conecta_Prototype.Domain.csproj"
+>>>>>>> 8dd1fcc31e6f4617745d9262af5f191c582d9a99
               }
             }
           }
@@ -65,11 +92,26 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[8.0.14, 8.0.14]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[8.0.14, 8.0.14]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[8.0.14, 8.0.14]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
+<<<<<<< HEAD
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
@@ -82,32 +124,62 @@
         "projectPath": "D:\\SENAC_PI_2025\\Conecta_Backend\\Conecta_Prototype\\Conecta_Prototype.DBconection\\Conecta_Prototype.DBconection.csproj",
         "packagesPath": "C:\\Users\\luiz.barcelos\\.nuget\\packages\\",
         "outputPath": "D:\\SENAC_PI_2025\\Conecta_Backend\\Conecta_Prototype\\Conecta_Prototype.DBconection\\obj\\",
+=======
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\natal\\Desktop\\SENAC_PI_2025\\Conecta_Backend\\Conecta_Prototype\\Conecta_Prototype.DBconection\\Conecta_Prototype.DBconection.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\natal\\Desktop\\SENAC_PI_2025\\Conecta_Backend\\Conecta_Prototype\\Conecta_Prototype.DBconection\\Conecta_Prototype.DBconection.csproj",
+        "projectName": "Conecta_Prototype.DBconection",
+        "projectPath": "C:\\Users\\natal\\Desktop\\SENAC_PI_2025\\Conecta_Backend\\Conecta_Prototype\\Conecta_Prototype.DBconection\\Conecta_Prototype.DBconection.csproj",
+        "packagesPath": "C:\\Users\\natal\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\natal\\Desktop\\SENAC_PI_2025\\Conecta_Backend\\Conecta_Prototype\\Conecta_Prototype.DBconection\\obj\\",
+>>>>>>> 8dd1fcc31e6f4617745d9262af5f191c582d9a99
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
+<<<<<<< HEAD
           "C:\\Users\\luiz.barcelos\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+=======
+          "C:\\Users\\natal\\AppData\\Roaming\\NuGet\\NuGet.Config"
+>>>>>>> 8dd1fcc31e6f4617745d9262af5f191c582d9a99
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+<<<<<<< HEAD
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {},
           "https://nuget.useall.com.br/nuget": {}
+=======
+          "https://api.nuget.org/v3/index.json": {}
+>>>>>>> 8dd1fcc31e6f4617745d9262af5f191c582d9a99
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
+<<<<<<< HEAD
               "D:\\SENAC_PI_2025\\Conecta_Backend\\Conecta_Prototype\\Conecta_Prototype.aplication\\Conecta_Prototype.Application.csproj": {
                 "projectPath": "D:\\SENAC_PI_2025\\Conecta_Backend\\Conecta_Prototype\\Conecta_Prototype.aplication\\Conecta_Prototype.Application.csproj"
               },
               "D:\\SENAC_PI_2025\\Conecta_Backend\\Conecta_Prototype\\Conecta_Prototype\\Conecta_Prototype.Domain.csproj": {
                 "projectPath": "D:\\SENAC_PI_2025\\Conecta_Backend\\Conecta_Prototype\\Conecta_Prototype\\Conecta_Prototype.Domain.csproj"
+=======
+              "C:\\Users\\natal\\Desktop\\SENAC_PI_2025\\Conecta_Backend\\Conecta_Prototype\\Conecta_Prototype.aplication\\Conecta_Prototype.Application.csproj": {
+                "projectPath": "C:\\Users\\natal\\Desktop\\SENAC_PI_2025\\Conecta_Backend\\Conecta_Prototype\\Conecta_Prototype.aplication\\Conecta_Prototype.Application.csproj"
+              },
+              "C:\\Users\\natal\\Desktop\\SENAC_PI_2025\\Conecta_Backend\\Conecta_Prototype\\Conecta_Prototype\\Conecta_Prototype.Domain.csproj": {
+                "projectPath": "C:\\Users\\natal\\Desktop\\SENAC_PI_2025\\Conecta_Backend\\Conecta_Prototype\\Conecta_Prototype\\Conecta_Prototype.Domain.csproj"
+>>>>>>> 8dd1fcc31e6f4617745d9262af5f191c582d9a99
               }
             }
           }
@@ -144,11 +216,26 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[8.0.14, 8.0.14]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[8.0.14, 8.0.14]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[8.0.14, 8.0.14]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
+<<<<<<< HEAD
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
@@ -161,22 +248,44 @@
         "projectPath": "D:\\SENAC_PI_2025\\Conecta_Backend\\Conecta_Prototype\\Conecta_Prototype\\Conecta_Prototype.Domain.csproj",
         "packagesPath": "C:\\Users\\luiz.barcelos\\.nuget\\packages\\",
         "outputPath": "D:\\SENAC_PI_2025\\Conecta_Backend\\Conecta_Prototype\\Conecta_Prototype\\obj\\",
+=======
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\natal\\Desktop\\SENAC_PI_2025\\Conecta_Backend\\Conecta_Prototype\\Conecta_Prototype\\Conecta_Prototype.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\natal\\Desktop\\SENAC_PI_2025\\Conecta_Backend\\Conecta_Prototype\\Conecta_Prototype\\Conecta_Prototype.Domain.csproj",
+        "projectName": "Conecta_Prototype.Domain",
+        "projectPath": "C:\\Users\\natal\\Desktop\\SENAC_PI_2025\\Conecta_Backend\\Conecta_Prototype\\Conecta_Prototype\\Conecta_Prototype.Domain.csproj",
+        "packagesPath": "C:\\Users\\natal\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\natal\\Desktop\\SENAC_PI_2025\\Conecta_Backend\\Conecta_Prototype\\Conecta_Prototype\\obj\\",
+>>>>>>> 8dd1fcc31e6f4617745d9262af5f191c582d9a99
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
+<<<<<<< HEAD
           "C:\\Users\\luiz.barcelos\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+=======
+          "C:\\Users\\natal\\AppData\\Roaming\\NuGet\\NuGet.Config"
+>>>>>>> 8dd1fcc31e6f4617745d9262af5f191c582d9a99
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+<<<<<<< HEAD
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {},
           "https://nuget.useall.com.br/nuget": {}
+=======
+          "https://api.nuget.org/v3/index.json": {}
+>>>>>>> 8dd1fcc31e6f4617745d9262af5f191c582d9a99
         },
         "frameworks": {
           "net8.0": {
@@ -210,12 +319,30 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[8.0.14, 8.0.14]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[8.0.14, 8.0.14]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[8.0.14, 8.0.14]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
+<<<<<<< HEAD
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+=======
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+>>>>>>> 8dd1fcc31e6f4617745d9262af5f191c582d9a99
         }
       }
     }
