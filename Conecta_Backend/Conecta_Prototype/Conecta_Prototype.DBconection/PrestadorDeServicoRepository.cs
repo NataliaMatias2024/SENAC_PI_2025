@@ -32,7 +32,7 @@ namespace Conecta_Prototype.DBconection
             {
                 connection.Open();
                 string query = @"
-                SELECT Id, CPF, CNPJ, Nome, Endereco, AreasDeAtuacao, ImagemLogo, ImagensTrabalhos, Cidade, Estado, Telefone, Email, Senha, DataNascimento, Genero, TelefoneCelular, CEP
+                SELECT Id, CPF, Nome, Endereco, AreasDeAtuacao, Cidade, Estado, Email, Senha, DataNascimento
                 FROM PrestadoresDeServico
                 WHERE Id = @Id;
             ";
@@ -47,21 +47,14 @@ namespace Conecta_Prototype.DBconection
                             {
                                 Id = reader.GetInt32(0),
                                 CPF = reader.GetString(1),
-                                CNPJ = reader.GetString(2),
-                                Nome = reader.GetString(3),
-                                Cidade = reader.GetString(4),
-                                Estado = reader.GetString(5),
-                                Telefone = reader.GetString(6),
-                                Email = reader.GetString(7),
-                                Senha = reader.GetString(8),
-                                DataNascimento = reader.GetString(9),
-                                Genero = reader.GetString(10),
-                                TelefoneCelular = reader.GetString(11),
-                                CEP = reader.GetString(12),
-                                Endereco = reader.GetString(13),
-                                AreasDeAtuacao = reader.GetString(14).Split(',').ToList(),
-                                ImagemLogo = reader.IsDBNull(15) ? null : reader.GetString(15),
-                                ImagensTrabalhos = reader.IsDBNull(16) ? null : reader.GetString(16).Split(',').ToList()
+                                Nome = reader.GetString(2),
+                                Cidade = reader.GetString(3),
+                                Estado = reader.GetString(4),
+                                Email = reader.GetString(5),
+                                Senha = reader.GetString(6),
+                                DataNascimento = reader.GetString(7),
+                                Endereco = reader.GetString(8),
+                                AreasDeAtuacao = reader.GetString(9).Split(',').ToList(),
                             };
                         }
                         else
@@ -79,7 +72,7 @@ namespace Conecta_Prototype.DBconection
             {
                 connection.Open();
                 string query = @"
-                    SELECT Id, CPF, CNPJ, Nome, Endereco, AreasDeAtuacao, ImagemLogo, ImagensTrabalhos, Cidade, Estado, Telefone, Email, Senha, DataNascimento, Genero, TelefoneCelular, CEP
+                    SELECT Id, CPF, Nome, Endereco, AreasDeAtuacao, Cidade, Estado, Email, Senha, DataNascimento
                     FROM PrestadoresDeServico;
                 ";
                 using (SqliteCommand command = new SqliteCommand(query, connection))
@@ -92,21 +85,14 @@ namespace Conecta_Prototype.DBconection
                             {
                                 Id = reader.GetInt32(0),
                                 CPF = reader.GetString(1),
-                                CNPJ = reader.GetString(2),
-                                Nome = reader.GetString(3),
-                                Cidade = reader.GetString(4),
-                                Estado = reader.GetString(5),
-                                Telefone = reader.GetString(6),
-                                Email = reader.GetString(7),
-                                Senha = reader.GetString(8),
-                                DataNascimento = reader.GetString(9),
-                                Genero = reader.GetString(10),
-                                TelefoneCelular = reader.GetString(11),
-                                CEP = reader.GetString(12),
-                                Endereco = reader.GetString(13),
-                                AreasDeAtuacao = reader.GetString(14).Split(',').ToList(),
-                                ImagemLogo = reader.IsDBNull(15) ? null : reader.GetString(15),
-                                ImagensTrabalhos = reader.IsDBNull(16) ? null : reader.GetString(16).Split(',').ToList()
+                                Nome = reader.GetString(2),
+                                Cidade = reader.GetString(3),
+                                Estado = reader.GetString(4),
+                                Email = reader.GetString(5),
+                                Senha = reader.GetString(6),
+                                DataNascimento = reader.GetString(7),
+                                Endereco = reader.GetString(8),
+                                AreasDeAtuacao = reader.GetString(9).Split(',').ToList(),
                             });
                         }
                     }
@@ -120,27 +106,20 @@ namespace Conecta_Prototype.DBconection
             {
                 connection.Open();
                 string query = @"
-                INSERT INTO PrestadoresDeServico (CPF, CNPJ, Nome, Endereco, AreasDeAtuacao, ImagemLogo, ImagensTrabalhos, Cidade, Estado, Telefone, Email, Senha, DataNascimento, Genero, TelefoneCelular, CEP)
-                VALUES (@CPF, @CNPJ, @Nome, @Endereco, @AreasDeAtuacao, @ImagemLogo, @ImagensTrabalhos, @Cidade, @Estado, @Telefone, @Email, @Senha, @DataNascimento, @Genero, @TelefoneCelular, @CEP);
+                INSERT INTO PrestadoresDeServico (CPF, Nome, Endereco, AreasDeAtuacao, Cidade, Estado, Email, Senha, DataNascimento)
+                VALUES (@CPF, @Nome, @Endereco, @AreasDeAtuacao, @Cidade, @Estado, @Email, @Senha, @DataNascimento);
             ";
                 using (SqliteCommand command = new SqliteCommand(query, connection))
                 {
                     command.Parameters.AddWithValue("@CPF", prestadorDeServico.CPF);
-                    command.Parameters.AddWithValue("@CNPJ", prestadorDeServico.CNPJ);
                     command.Parameters.AddWithValue("@Nome", prestadorDeServico.Nome);
                     command.Parameters.AddWithValue("@Endereco", prestadorDeServico.Endereco);
                     command.Parameters.AddWithValue("@AreasDeAtuacao", string.Join(",", prestadorDeServico.AreasDeAtuacao));
-                    command.Parameters.AddWithValue("@ImagemLogo", prestadorDeServico.ImagemLogo);
-                    command.Parameters.AddWithValue("@ImagensTrabalhos", string.Join(",", prestadorDeServico.ImagensTrabalhos));
                     command.Parameters.AddWithValue("@Cidade", prestadorDeServico.Cidade);
                     command.Parameters.AddWithValue("@Estado", prestadorDeServico.Estado);
-                    command.Parameters.AddWithValue("@Telefone", prestadorDeServico.Telefone);
                     command.Parameters.AddWithValue("@Email", prestadorDeServico.Email);
                     command.Parameters.AddWithValue("@Senha", prestadorDeServico.Senha);
                     command.Parameters.AddWithValue("@DataNascimento", prestadorDeServico.DataNascimento);
-                    command.Parameters.AddWithValue("@Genero", prestadorDeServico.Genero);
-                    command.Parameters.AddWithValue("@TelefoneCelular", prestadorDeServico.TelefoneCelular);
-                    command.Parameters.AddWithValue("@CEP", prestadorDeServico.CEP);
                     command.ExecuteNonQuery();
                 }
             }

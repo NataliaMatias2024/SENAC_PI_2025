@@ -17,7 +17,6 @@ namespace Conecta_Prototype.DBconection
 
         public void CreateDatabase()
         {
-            Console.WriteLine("DatabaseHelper.CreateDatabase() called.");
             if (!File.Exists(_dbPath))
             {
                 try
@@ -34,37 +33,33 @@ namespace Conecta_Prototype.DBconection
                     throw;
                 }
             }
+            else
+            {
+                Console.WriteLine("Database file already exists."); //ADDED
+            }
         }
 
         private void InitializeDatabase()
         {
-            Console.WriteLine("DatabaseHelper.InitializeDatabase() called.");
             try
             {
                 using (SqliteConnection connection = GetConnection())
                 {
                     connection.Open();
                     string createTableQuery = @"
-                CREATE TABLE IF NOT EXISTS PrestadoresDeServico (
-                    Id INTEGER PRIMARY KEY AUTOINCREMENT,
-                    CPF TEXT UNIQUE NOT NULL,
-                    CNPJ TEXT UNIQUE,
-                    Nome TEXT NOT NULL,
-                    Endereco TEXT NOT NULL,
-                    AreasDeAtuacao TEXT NOT NULL,
-                    ImagemLogo TEXT,
-                    ImagensTrabalhos TEXT,
-                    Cidade TEXT NOT NULL,
-                    Estado TEXT NOT NULL,
-                    Telefone TEXT,
-                    Email TEXT NOT NULL,
-                    Senha TEXT NOT NULL,
-                    DataNascimento DATE NOT NULL,
-                    Genero TEXT NOT NULL,
-                    TelefoneCelular TEXT,
-                    CEP TEXT NOT NULL
-                    );
-                ";
+                        CREATE TABLE IF NOT EXISTS PrestadoresDeServico (
+                            Id INTEGER PRIMARY KEY AUTOINCREMENT,
+                            CPF TEXT UNIQUE NOT NULL,
+                            Nome TEXT NOT NULL,
+                            Endereco TEXT NOT NULL,
+                            AreasDeAtuacao TEXT NOT NULL,
+                            Cidade TEXT NOT NULL,
+                            Estado TEXT NOT NULL,
+                            Email TEXT NOT NULL,
+                            Senha TEXT NOT NULL,
+                            DataNascimento DATE NOT NULL
+                        );
+                    ";
                     using (SqliteCommand command = new SqliteCommand(createTableQuery, connection))
                     {
                         command.ExecuteNonQuery();

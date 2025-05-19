@@ -5,12 +5,9 @@ import {
   CardHeader,
   CardTitle,
   CardText,
+  Badge,
+  Image,
 } from 'react-bootstrap';
-import { Badge } from 'react-bootstrap';
-import { Image } from 'react-bootstrap'; //changed
-// import { Avatar, AvatarFallback, AvatarImage } from 'react-bootstrap'; //removed
-
-// import { PrestadorDeServico } from '../interfaces/PrestadorDeServico'; // Not needed in JS
 
 const PrestadorDeServicoCard = ({ prestador }) => {
   if (!prestador) {

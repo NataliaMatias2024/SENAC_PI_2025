@@ -50,21 +50,14 @@ public class PrestadorDeServicoController : ControllerBase
         var prestadorDeServico = new PrestadorDeServico
         {
             CPF = inputModel.CPF,
-            CNPJ = inputModel.CNPJ,
             Nome = inputModel.Nome,
             Endereco = inputModel.Endereco,
             AreasDeAtuacao = inputModel.AreasDeAtuacao,
-            ImagemLogo = inputModel.ImagemLogo,
-            ImagensTrabalhos = inputModel.ImagensTrabalhos,
             Cidade = inputModel.Cidade,
             Estado = inputModel.Estado,
-            Telefone = inputModel.Telefone,
             Email = inputModel.Email,
             Senha = inputModel.Senha,
             DataNascimento = inputModel.DataNascimento,
-            Genero = inputModel.Genero,
-            TelefoneCelular = inputModel.TelefoneCelular,
-            CEP = inputModel.CEP
         };
         _prestadorDeServicoService.CreatePrestadorDeServico(prestadorDeServico);
         return Ok();
@@ -75,27 +68,20 @@ public class PrestadorDeServicoInputModel
 {
     [System.ComponentModel.DataAnnotations.Required]
     public string CPF { get; set; }
-    public string CNPJ { get; set; }
     [System.ComponentModel.DataAnnotations.Required]
     public string Nome { get; set; }
     [System.ComponentModel.DataAnnotations.Required]
     public string Endereco { get; set; }
     [System.ComponentModel.DataAnnotations.Required]
     public List<string> AreasDeAtuacao { get; set; }
-    public string ImagemLogo { get; set; }
-    public List<string> ImagensTrabalhos { get; set; }
     [System.ComponentModel.DataAnnotations.Required]
     public string Cidade { get; set; }
     [System.ComponentModel.DataAnnotations.Required]
     public string Estado { get; set; }
-    public string Telefone { get; set; }
     [System.ComponentModel.DataAnnotations.Required]
     public string Email { get; set; }
     [System.ComponentModel.DataAnnotations.Required]
     public string Senha { get; set; }
     [System.ComponentModel.DataAnnotations.Required]
     public string DataNascimento { get; set; }
-    public string Genero { get; set; }
-    public string TelefoneCelular { get; set; }
-    public string CEP { get; set; }
 }

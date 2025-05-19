@@ -5,43 +5,41 @@ import {
   CardHeader,
   CardTitle,
   CardText,
+  Badge,
+  Image,
+  Container,
+  Row,
+  Col,
+  Breadcrumb,
+  Button,
+  Alert,
 } from 'react-bootstrap';
-import { Badge } from 'react-bootstrap';
-import { Image } from 'react-bootstrap';
-import { Container, Row, Col } from 'react-bootstrap';
-import { Breadcrumb } from 'react-bootstrap';
-import { Button } from 'react-bootstrap';
-import { Alert } from 'react-bootstrap';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import { getAllPrestadoresDeServico } from '../api/Prestadordeservico';
+
 import styled from 'styled-components';
 import '../index.css';
 
 // Styled Components
-const Header = styled.header`
-  background-color: #007bff;
+const FixedHeader = styled.header`
+  background-color: #1c88eb;
   color: white;
-  padding: 0;
-  text-align: center;
+  padding: 1rem 0;
+  text-align: start;
   width: 100%;
-`;
-
-const NewContainer = styled(Container)`
-  position: fixed;
-  top: 0;
+  position: sticky;
+  top: 0 !important;
+  z-index: 1000;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   left: 0;
   right: 0;
-  max-width: 5000%;
-  z-index: 500;
-  padding: 0;
   height: 8%;
-  background: #2a6670;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 `;
 
 const ContentWrapper = styled.div`
   flex: 1;
   padding-bottom: 2rem;
+  padding-top: 10px;
 `;
 
 const PrestadoresDeServicoPage = () => {
@@ -55,7 +53,7 @@ const PrestadoresDeServicoPage = () => {
         const data = await getAllPrestadoresDeServico();
         setPrestadores(data);
       } catch (err) {
-        setError(err.message || 'Failed to fetch data');
+        setError(err.message || 'Falha ao carregar os dados');
       } finally {
         setLoading(false);
       }
@@ -65,11 +63,18 @@ const PrestadoresDeServicoPage = () => {
 
   if (loading) {
     return (
-      <Container className="header">
+      <Container fluid className="p-0">
         {' '}
-        <Header>
-          <h1>Prestadores de Serviço</h1>
-        </Header>
+        {/* Use fluid container for full width */}
+        <FixedHeader>
+          <Row>
+            <Col md={2} style={{ marginLeft: '10px' }}>
+              <h2>Conecta</h2>
+            </Col>
+            <Col md={8}></Col>
+            <Col md={2}></Col>
+          </Row>
+        </FixedHeader>
         <ContentWrapper>
           <Container>
             <Breadcrumb className="mb-4">
@@ -111,10 +116,16 @@ const PrestadoresDeServicoPage = () => {
 
   if (error) {
     return (
-      <Container className="header">
-        <Header>
-          <h1>Prestadores de Serviço</h1>
-        </Header>
+      <Container fluid className="p-0">
+        <FixedHeader>
+          <Row>
+            <Col md={2} style={{ marginLeft: '10px' }}>
+              <h2>Conecta</h2>
+            </Col>
+            <Col md={8}></Col>
+            <Col md={2}></Col>
+          </Row>
+        </FixedHeader>
         <ContentWrapper>
           <Container>
             <Breadcrumb className="mb-4">
@@ -130,28 +141,74 @@ const PrestadoresDeServicoPage = () => {
 
   if (!prestadores || prestadores.length === 0) {
     return (
-      <NewContainer className="header">
-        <Header>
-          <h1>Prestadores de Serviço</h1>
-        </Header>
+      <Container fluid className="p-0">
+        <FixedHeader>
+          <Row>
+            <Col md={2} style={{ marginLeft: '10px' }}>
+              <h2>Conecta</h2>
+            </Col>
+            <Col md={8}></Col>
+            <Col md={2}></Col>
+          </Row>
+        </FixedHeader>
         <ContentWrapper>
           <Container>
             <Breadcrumb className="mb-4">
               <Breadcrumb.Item>Home</Breadcrumb.Item>
               <Breadcrumb.Item active>Prestadores de Serviço</Breadcrumb.Item>
             </Breadcrumb>
-            <Alert variant="warning">No prestadores de serviço found.</Alert>
+            <Alert variant="warning">Não há prestadores de serviços.</Alert>
           </Container>
         </ContentWrapper>
-      </NewContainer>
+      </Container>
     );
   }
 
   return (
-    <NewContainer className="mt-0">
-      <Header>
-        <h1>Prestadores de Serviço</h1>
-      </Header>
+    <Container fluid className="p-0">
+      {' '}
+      <FixedHeader>
+        <Row>
+          <Col
+            style={{
+              display: 'flex',
+              flexDirection: 'row',
+              position: 'relative',
+              alignItems: 'center',
+            }}
+          >
+            <Col md={2} style={{ marginLeft: '10px' }}>
+              <Image
+                src="/logo.jpg"
+                alt="logo"
+                rounded
+                style={{
+                  width: '45px',
+                  height: '45px',
+                  boxShadow: '0 4px 8px rgba(0, 0, 0, 0.2)',
+                  border: '2px solid rgba(255, 255, 255, 0.4)',
+                  padding: '2px',
+                  backgroundColor: 'rgba(255, 255, 255, 0.15)',
+                }}
+              />
+              <h1
+                className="h1"
+                style={{
+                  margin: 0,
+                  color: 'white', // Change text color to white for better contrast
+                  textShadow: '0px 1px 2px rgba(0, 0, 0, 0.2)', // Add subtle shadow
+                  fontWeight: '600', // Slightly bolder
+                  letterSpacing: '0.5px',
+                }}
+              >
+                CONECTA
+              </h1>
+            </Col>
+            <Col md={8}></Col>
+            <Col md={2}></Col>
+          </Col>
+        </Row>
+      </FixedHeader>
       <ContentWrapper>
         <Container>
           <Breadcrumb className="mb-4">
@@ -168,8 +225,8 @@ const PrestadoresDeServicoPage = () => {
                         <Image
                           src={prestador.imagemLogo}
                           roundedCircle
-                          width={60}
-                          height={60}
+                          width={50}
+                          height={50}
                           alt={prestador.nome}
                           className="border border-1 border-secondary"
                         />
@@ -177,8 +234,8 @@ const PrestadoresDeServicoPage = () => {
                         <div
                           className="rounded-circle bg-secondary d-flex align-items-center justify-content-center text-white fw-bold"
                           style={{
-                            width: '60px',
-                            height: '60px',
+                            width: '50px',
+                            height: '50px',
                             fontSize: '1.5rem',
                           }}
                         >
@@ -190,7 +247,7 @@ const PrestadoresDeServicoPage = () => {
                           {prestador.nome}
                         </CardTitle>
                         <CardText className="small text-muted">
-                          {prestador.endereco}, {prestador.cidade} -{' '}
+                          Endereço: {prestador.endereco}, {prestador.cidade} -{' '}
                           {prestador.estado}
                         </CardText>
                       </div>
@@ -199,12 +256,10 @@ const PrestadoresDeServicoPage = () => {
                   <CardBody>
                     <div className="space-y-2">
                       <p>
-                        <strong>Telefone:</strong> {prestador.telefone}
-                      </p>
-                      <p>
                         <strong>Email:</strong> {prestador.email}
                       </p>
                       <div className="d-flex flex-wrap gap-2">
+                        Áreas de atuação:
                         {prestador.areasDeAtuacao.map((area, index) => (
                           <Badge
                             key={index}
@@ -228,7 +283,7 @@ const PrestadoresDeServicoPage = () => {
           </div>
         </Container>
       </ContentWrapper>
-    </NewContainer>
+    </Container>
   );
 };
 

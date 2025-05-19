@@ -23,11 +23,6 @@
         "IsRequired": false
       },
       {
-        "Name": "CNPJ",
-        "Type": "System.String",
-        "IsRequired": false
-      },
-      {
         "Name": "Nome",
         "Type": "System.String",
         "IsRequired": false
@@ -43,27 +38,12 @@
         "IsRequired": false
       },
       {
-        "Name": "ImagemLogo",
-        "Type": "System.String",
-        "IsRequired": false
-      },
-      {
-        "Name": "ImagensTrabalhos",
-        "Type": "System.Collections.Generic.List\u00601[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
-        "IsRequired": false
-      },
-      {
         "Name": "Cidade",
         "Type": "System.String",
         "IsRequired": false
       },
       {
         "Name": "Estado",
-        "Type": "System.String",
-        "IsRequired": false
-      },
-      {
-        "Name": "Telefone",
         "Type": "System.String",
         "IsRequired": false
       },
@@ -79,21 +59,6 @@
       },
       {
         "Name": "DataNascimento",
-        "Type": "System.String",
-        "IsRequired": false
-      },
-      {
-        "Name": "Genero",
-        "Type": "System.String",
-        "IsRequired": false
-      },
-      {
-        "Name": "TelefoneCelular",
-        "Type": "System.String",
-        "IsRequired": false
-      },
-      {
-        "Name": "CEP",
         "Type": "System.String",
         "IsRequired": false
       }

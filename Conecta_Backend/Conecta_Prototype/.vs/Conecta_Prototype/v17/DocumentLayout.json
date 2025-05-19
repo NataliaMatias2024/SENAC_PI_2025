@@ -3,8 +3,28 @@
   "WorkspaceRootPath": "D:\\ConectaProjeto\\SENAC_PI_2025\\Conecta_Backend\\Conecta_Prototype\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A58C13E5-65E7-4961-BA5C-8DC1A1128729}|Conecta_Prototype.DBconection\\Conecta_Prototype.DBconection.csproj|d:\\conectaprojeto\\senac_pi_2025\\conecta_backend\\conecta_prototype\\conecta_prototype.dbconection\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A58C13E5-65E7-4961-BA5C-8DC1A1128729}|Conecta_Prototype.DBconection\\Conecta_Prototype.DBconection.csproj|solutionrelative:conecta_prototype.dbconection\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A58C13E5-65E7-4961-BA5C-8DC1A1128729}|Conecta_Prototype.DBconection\\Conecta_Prototype.DBconection.csproj|d:\\conectaprojeto\\senac_pi_2025\\conecta_backend\\conecta_prototype\\conecta_prototype.dbconection\\prestadordeservicorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A58C13E5-65E7-4961-BA5C-8DC1A1128729}|Conecta_Prototype.DBconection\\Conecta_Prototype.DBconection.csproj|solutionrelative:conecta_prototype.dbconection\\prestadordeservicorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{365F0D47-BCF7-4FFD-A738-76F98FFB58B9}|Conecta_Prototype.APIrest\\Conecta_Prototype.APIrest.csproj|d:\\conectaprojeto\\senac_pi_2025\\conecta_backend\\conecta_prototype\\conecta_prototype.apirest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{365F0D47-BCF7-4FFD-A738-76F98FFB58B9}|Conecta_Prototype.APIrest\\Conecta_Prototype.APIrest.csproj|solutionrelative:conecta_prototype.apirest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{365F0D47-BCF7-4FFD-A738-76F98FFB58B9}|Conecta_Prototype.APIrest\\Conecta_Prototype.APIrest.csproj|d:\\conectaprojeto\\senac_pi_2025\\conecta_backend\\conecta_prototype\\conecta_prototype.apirest\\controllers\\prestadordeservicocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{365F0D47-BCF7-4FFD-A738-76F98FFB58B9}|Conecta_Prototype.APIrest\\Conecta_Prototype.APIrest.csproj|solutionrelative:conecta_prototype.apirest\\controllers\\prestadordeservicocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56FE62B7-2E00-4B21-BA23-E2F93B4A655A}|Conecta_Prototype\\Conecta_Prototype.Domain.csproj|d:\\conectaprojeto\\senac_pi_2025\\conecta_backend\\conecta_prototype\\conecta_prototype\\prestadordeservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56FE62B7-2E00-4B21-BA23-E2F93B4A655A}|Conecta_Prototype\\Conecta_Prototype.Domain.csproj|solutionrelative:conecta_prototype\\prestadordeservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{365F0D47-BCF7-4FFD-A738-76F98FFB58B9}|Conecta_Prototype.APIrest\\Conecta_Prototype.APIrest.csproj|d:\\conectaprojeto\\senac_pi_2025\\conecta_backend\\conecta_prototype\\conecta_prototype.apirest\\conecta_prototype.apirest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{365F0D47-BCF7-4FFD-A738-76F98FFB58B9}|Conecta_Prototype.APIrest\\Conecta_Prototype.APIrest.csproj|solutionrelative:conecta_prototype.apirest\\conecta_prototype.apirest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{365F0D47-BCF7-4FFD-A738-76F98FFB58B9}|Conecta_Prototype.APIrest\\Conecta_Prototype.APIrest.csproj|d:\\conectaprojeto\\senac_pi_2025\\conecta_backend\\conecta_prototype\\conecta_prototype.apirest\\conecta_prototype.apirest.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
@@ -18,38 +38,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Conecta_Prototype.APIrest.http",
-              "DocumentMoniker": "D:\\ConectaProjeto\\SENAC_PI_2025\\Conecta_Backend\\Conecta_Prototype\\Conecta_Prototype.APIrest\\Conecta_Prototype.APIrest.http",
-              "RelativeDocumentMoniker": "Conecta_Prototype.APIrest\\Conecta_Prototype.APIrest.http",
-              "ToolTip": "D:\\ConectaProjeto\\SENAC_PI_2025\\Conecta_Backend\\Conecta_Prototype\\Conecta_Prototype.APIrest\\Conecta_Prototype.APIrest.http",
-              "RelativeToolTip": "Conecta_Prototype.APIrest\\Conecta_Prototype.APIrest.http",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-05-18T03:50:41.488Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\ConectaProjeto\\SENAC_PI_2025\\Conecta_Backend\\Conecta_Prototype\\Conecta_Prototype.APIrest\\Program.cs",
-              "RelativeDocumentMoniker": "Conecta_Prototype.APIrest\\Program.cs",
-              "ToolTip": "D:\\ConectaProjeto\\SENAC_PI_2025\\Conecta_Backend\\Conecta_Prototype\\Conecta_Prototype.APIrest\\Program.cs",
-              "RelativeToolTip": "Conecta_Prototype.APIrest\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-18T03:49:06.857Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
@@ -61,6 +51,96 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PrestadorDeServicoController.cs",
+              "DocumentMoniker": "D:\\ConectaProjeto\\SENAC_PI_2025\\Conecta_Backend\\Conecta_Prototype\\Conecta_Prototype.APIrest\\Controllers\\PrestadorDeServicoController.cs",
+              "RelativeDocumentMoniker": "Conecta_Prototype.APIrest\\Controllers\\PrestadorDeServicoController.cs",
+              "ToolTip": "D:\\ConectaProjeto\\SENAC_PI_2025\\Conecta_Backend\\Conecta_Prototype\\Conecta_Prototype.APIrest\\Controllers\\PrestadorDeServicoController.cs",
+              "RelativeToolTip": "Conecta_Prototype.APIrest\\Controllers\\PrestadorDeServicoController.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAFIAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T03:19:35.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DatabaseHelper.cs",
+              "DocumentMoniker": "D:\\ConectaProjeto\\SENAC_PI_2025\\Conecta_Backend\\Conecta_Prototype\\Conecta_Prototype.DBconection\\DatabaseHelper.cs",
+              "RelativeDocumentMoniker": "Conecta_Prototype.DBconection\\DatabaseHelper.cs",
+              "ToolTip": "D:\\ConectaProjeto\\SENAC_PI_2025\\Conecta_Backend\\Conecta_Prototype\\Conecta_Prototype.DBconection\\DatabaseHelper.cs",
+              "RelativeToolTip": "Conecta_Prototype.DBconection\\DatabaseHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T03:18:24.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PrestadorDeServicoRepository.cs",
+              "DocumentMoniker": "D:\\ConectaProjeto\\SENAC_PI_2025\\Conecta_Backend\\Conecta_Prototype\\Conecta_Prototype.DBconection\\PrestadorDeServicoRepository.cs",
+              "RelativeDocumentMoniker": "Conecta_Prototype.DBconection\\PrestadorDeServicoRepository.cs",
+              "ToolTip": "D:\\ConectaProjeto\\SENAC_PI_2025\\Conecta_Backend\\Conecta_Prototype\\Conecta_Prototype.DBconection\\PrestadorDeServicoRepository.cs",
+              "RelativeToolTip": "Conecta_Prototype.DBconection\\PrestadorDeServicoRepository.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T03:14:01.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PrestadorDeServico.cs",
+              "DocumentMoniker": "D:\\ConectaProjeto\\SENAC_PI_2025\\Conecta_Backend\\Conecta_Prototype\\Conecta_Prototype\\PrestadorDeServico.cs",
+              "RelativeDocumentMoniker": "Conecta_Prototype\\PrestadorDeServico.cs",
+              "ToolTip": "D:\\ConectaProjeto\\SENAC_PI_2025\\Conecta_Backend\\Conecta_Prototype\\Conecta_Prototype\\PrestadorDeServico.cs",
+              "RelativeToolTip": "Conecta_Prototype\\PrestadorDeServico.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T03:12:55.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Conecta_Prototype.APIrest",
+              "DocumentMoniker": "D:\\ConectaProjeto\\SENAC_PI_2025\\Conecta_Backend\\Conecta_Prototype\\Conecta_Prototype.APIrest\\Conecta_Prototype.APIrest.csproj",
+              "RelativeDocumentMoniker": "Conecta_Prototype.APIrest\\Conecta_Prototype.APIrest.csproj",
+              "ToolTip": "D:\\ConectaProjeto\\SENAC_PI_2025\\Conecta_Backend\\Conecta_Prototype\\Conecta_Prototype.APIrest\\Conecta_Prototype.APIrest.csproj",
+              "RelativeToolTip": "Conecta_Prototype.APIrest\\Conecta_Prototype.APIrest.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-19T01:50:39.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Conecta_Prototype.APIrest.http",
+              "DocumentMoniker": "D:\\ConectaProjeto\\SENAC_PI_2025\\Conecta_Backend\\Conecta_Prototype\\Conecta_Prototype.APIrest\\Conecta_Prototype.APIrest.http",
+              "RelativeDocumentMoniker": "Conecta_Prototype.APIrest\\Conecta_Prototype.APIrest.http",
+              "ToolTip": "D:\\ConectaProjeto\\SENAC_PI_2025\\Conecta_Backend\\Conecta_Prototype\\Conecta_Prototype.APIrest\\Conecta_Prototype.APIrest.http",
+              "RelativeToolTip": "Conecta_Prototype.APIrest\\Conecta_Prototype.APIrest.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-05-18T03:50:41.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ConectaProjeto\\SENAC_PI_2025\\Conecta_Backend\\Conecta_Prototype\\Conecta_Prototype.APIrest\\Program.cs",
+              "RelativeDocumentMoniker": "Conecta_Prototype.APIrest\\Program.cs",
+              "ToolTip": "D:\\ConectaProjeto\\SENAC_PI_2025\\Conecta_Backend\\Conecta_Prototype\\Conecta_Prototype.APIrest\\Program.cs",
+              "RelativeToolTip": "Conecta_Prototype.APIrest\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T03:49:06.857Z",
+              "EditorCaption": ""
             }
           ]
         }
