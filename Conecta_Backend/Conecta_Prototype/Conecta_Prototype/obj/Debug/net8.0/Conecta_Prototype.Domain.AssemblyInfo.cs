@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Conecta_Prototype.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7619c56afdbd8801ac790b82c55de29c6888d638")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dbede23be400ab65bdff909ff6bf18b79bbe739e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Conecta_Prototype.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Conecta_Prototype.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
