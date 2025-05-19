@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import { Link } from 'react-router-dom';
 import { createPrestadorDeServico } from '../api/Prestadordeservico';
+import { useNavigate } from 'react-router-dom';
 
 function Cadastro() {
   const [nome, setNome] = useState('');
@@ -14,11 +15,14 @@ function Cadastro() {
   const [areasDeAtuacao, setAreasDeAtuacao] = useState('');
   const [error, setError] = useState('');
   const [loading, setLoading] = useState(false);
+const [success, setSuccess] = useState(false); // Novo estado para sucesso
+const navigate = useNavigate();
 
   const handleSubmit = async (e) => {
     e.preventDefault();
     setLoading(true);
     setError('');
+setSuccess(false);
 
     const formData = new FormData();
     formData.append('Nome', nome);
@@ -34,6 +38,10 @@ function Cadastro() {
     try {
       const responseData = await createPrestadorDeServico(formData);
       console.log('Cadastro realizado com sucesso!', responseData);
+setSuccess(true);
+      
+// Mostra o alerta de sucesso e redireciona após 2 segundos
+setTimeout(() => {navigate('/', { replace: true })}, 2000);
     } catch (err) {
       setError(err.message || 'Erro ao realizar o cadastro.');
       console.error('Erro no cadastro:', err);
@@ -61,6 +69,13 @@ function Cadastro() {
             Cadastro de Usuário
           </h2>
         </div>
+
+{/* Mensagem de sucesso */}
+{success && (
+<div className="alert alert-success" role="alert">
+Cadastro efetuado com sucesso! Redirecionando para login...
+</div>
+)}
 
         <form onSubmit={handleSubmit}>
           {/* Primeira linha - Nome e CPF */}
@@ -250,21 +265,22 @@ function Cadastro() {
               border: 'none',
               color: '#fff',
             }}
+disabled={loading} // Desabilita o botão durante o carregamento
           >
-            Cadastrar
+{loading ? 'Cadastrando...' : 'Cadastrar'}
           </button>
         </form>
 
         <div className="text-center mt-4">
           <p className="mb-0 small">
             Já tem uma conta?{' '}
-            <a
-              href="./"
+             <Link
+              to="/"
               className="text-decoration-none fw-semibold"
               style={{ color: '#1E78EB' }}
             >
               Faça login
-            </a>
+            </Link>
           </p>
         </div>
       </div>
