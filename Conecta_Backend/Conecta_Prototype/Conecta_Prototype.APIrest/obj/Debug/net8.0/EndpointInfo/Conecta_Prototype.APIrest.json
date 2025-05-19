@@ -63,9 +63,6 @@
                   "CPF": {
                     "type": "string"
                   },
-                  "CNPJ": {
-                    "type": "string"
-                  },
                   "Nome": {
                     "type": "string"
                   },
@@ -78,22 +75,10 @@
                       "type": "string"
                     }
                   },
-                  "ImagemLogo": {
-                    "type": "string"
-                  },
-                  "ImagensTrabalhos": {
-                    "type": "array",
-                    "items": {
-                      "type": "string"
-                    }
-                  },
                   "Cidade": {
                     "type": "string"
                   },
                   "Estado": {
-                    "type": "string"
-                  },
-                  "Telefone": {
                     "type": "string"
                   },
                   "Email": {
@@ -104,23 +89,11 @@
                   },
                   "DataNascimento": {
                     "type": "string"
-                  },
-                  "Genero": {
-                    "type": "string"
-                  },
-                  "TelefoneCelular": {
-                    "type": "string"
-                  },
-                  "CEP": {
-                    "type": "string"
                   }
                 }
               },
               "encoding": {
                 "CPF": {
-                  "style": "form"
-                },
-                "CNPJ": {
                   "style": "form"
                 },
                 "Nome": {
@@ -132,19 +105,10 @@
                 "AreasDeAtuacao": {
                   "style": "form"
                 },
-                "ImagemLogo": {
-                  "style": "form"
-                },
-                "ImagensTrabalhos": {
-                  "style": "form"
-                },
                 "Cidade": {
                   "style": "form"
                 },
                 "Estado": {
-                  "style": "form"
-                },
-                "Telefone": {
                   "style": "form"
                 },
                 "Email": {
@@ -154,15 +118,6 @@
                   "style": "form"
                 },
                 "DataNascimento": {
-                  "style": "form"
-                },
-                "Genero": {
-                  "style": "form"
-                },
-                "TelefoneCelular": {
-                  "style": "form"
-                },
-                "CEP": {
                   "style": "form"
                 }
               }

@@ -27,7 +27,7 @@ function Login() {
       <div
         className="card shadow-lg rounded-4 p-4 w-100"
         style={{
-          maxWidth: '420px',
+          maxWidth: '320px',
           backgroundColor: '#ffffffee',
           border: '1px solid #1AEBDB',
         }}

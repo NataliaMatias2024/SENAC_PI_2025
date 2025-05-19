@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Link } from 'react-router-dom';
+import { Link, useNavigate } from 'react-router-dom';
 import { createPrestadorDeServico } from '../api/Prestadordeservico';
 
 function Cadastro() {
@@ -14,26 +14,32 @@ function Cadastro() {
   const [areasDeAtuacao, setAreasDeAtuacao] = useState('');
   const [error, setError] = useState('');
   const [loading, setLoading] = useState(false);
+  const navigate = useNavigate();
 
   const handleSubmit = async (e) => {
     e.preventDefault();
     setLoading(true);
     setError('');
 
-    const formData = new FormData();
-    formData.append('Nome', nome);
-    formData.append('Email', email);
-    formData.append('Senha', senha);
+   const formData = new FormData();
     formData.append('CPF', cpf);
+    formData.append('Nome', nome);
     formData.append('Endereco', endereco);
+    const areasDeAtuacaoArray = areasDeAtuacao.split(',').map(item => item.trim());
+    areasDeAtuacaoArray.forEach((area, index) => {
+      formData.append(`AreasDeAtuacao[${index}]`, area);
+    });
     formData.append('Cidade', cidade);
     formData.append('Estado', estado);
+    formData.append('Email', email);
+    formData.append('Senha', senha);
     formData.append('DataNascimento', dataNascimento);
-    formData.append('AreasDeAtuacao', areasDeAtuacao);
+
 
     try {
       const responseData = await createPrestadorDeServico(formData);
       console.log('Cadastro realizado com sucesso!', responseData);
+      navigate('/');
     } catch (err) {
       setError(err.message || 'Erro ao realizar o cadastro.');
       console.error('Erro no cadastro:', err);
@@ -258,13 +264,13 @@ function Cadastro() {
         <div className="text-center mt-4">
           <p className="mb-0 small">
             Já tem uma conta?{' '}
-            <a
-              href="./"
+            <Link
+              to="/"
               className="text-decoration-none fw-semibold"
               style={{ color: '#1E78EB' }}
             >
               Faça login
-            </a>
+            </Link>
           </p>
         </div>
       </div>

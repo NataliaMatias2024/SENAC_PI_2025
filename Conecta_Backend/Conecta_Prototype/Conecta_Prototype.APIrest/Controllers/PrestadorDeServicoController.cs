@@ -47,12 +47,29 @@ public class PrestadorDeServicoController : ControllerBase
             return BadRequest(ModelState);
         }
 
+        List<string> areasDeAtuacaoList = new List<string>();
+
+        if (inputModel.AreasDeAtuacao != null)
+        {
+            if (inputModel.AreasDeAtuacao.Count == 1 && inputModel.AreasDeAtuacao[0].Contains(','))
+            {
+                areasDeAtuacaoList = inputModel.AreasDeAtuacao[0]
+                    .Split(',', StringSplitOptions.RemoveEmptyEntries)
+                    .Select(s => s.Trim())
+                    .ToList();
+            }
+            else
+            {
+                areasDeAtuacaoList = inputModel.AreasDeAtuacao;
+            }
+        }
+
         var prestadorDeServico = new PrestadorDeServico
         {
             CPF = inputModel.CPF,
             Nome = inputModel.Nome,
             Endereco = inputModel.Endereco,
-            AreasDeAtuacao = inputModel.AreasDeAtuacao,
+            AreasDeAtuacao = areasDeAtuacaoList,
             Cidade = inputModel.Cidade,
             Estado = inputModel.Estado,
             Email = inputModel.Email,

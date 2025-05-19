@@ -48,13 +48,13 @@ namespace Conecta_Prototype.DBconection
                                 Id = reader.GetInt32(0),
                                 CPF = reader.GetString(1),
                                 Nome = reader.GetString(2),
-                                Cidade = reader.GetString(3),
-                                Estado = reader.GetString(4),
-                                Email = reader.GetString(5),
-                                Senha = reader.GetString(6),
-                                DataNascimento = reader.GetString(7),
-                                Endereco = reader.GetString(8),
-                                AreasDeAtuacao = reader.GetString(9).Split(',').ToList(),
+                                Endereco = reader.GetString(3),
+                                AreasDeAtuacao = reader.GetString(4).Split(',').ToList(),
+                                Cidade = reader.GetString(5),
+                                Estado = reader.GetString(6),
+                                Email = reader.GetString(7),
+                                Senha = reader.GetString(8),
+                                DataNascimento = reader.GetString(9),
                             };
                         }
                         else
@@ -86,13 +86,14 @@ namespace Conecta_Prototype.DBconection
                                 Id = reader.GetInt32(0),
                                 CPF = reader.GetString(1),
                                 Nome = reader.GetString(2),
-                                Cidade = reader.GetString(3),
-                                Estado = reader.GetString(4),
-                                Email = reader.GetString(5),
-                                Senha = reader.GetString(6),
-                                DataNascimento = reader.GetString(7),
-                                Endereco = reader.GetString(8),
-                                AreasDeAtuacao = reader.GetString(9).Split(',').ToList(),
+                                Endereco = reader.GetString(3),
+                                AreasDeAtuacao = reader.GetString(4).Split(',').ToList(),
+                                Cidade = reader.GetString(5),
+                                Estado = reader.GetString(6),
+                                Email = reader.GetString(7),
+                                Senha = reader.GetString(8),
+                                DataNascimento = reader.GetString(9),
+
                             });
                         }
                     }

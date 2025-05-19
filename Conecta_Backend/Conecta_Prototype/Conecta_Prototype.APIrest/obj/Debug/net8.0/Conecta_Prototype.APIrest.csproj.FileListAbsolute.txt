@@ -237,7 +237,6 @@ D:\SENAC_PI_2025\Conecta_Backend\Conecta_Prototype\Conecta_Prototype.APIrest\obj
 D:\SENAC_PI_2025\Conecta_Backend\Conecta_Prototype\Conecta_Prototype.APIrest\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Conecta_Prototype.APIrest.props
 D:\SENAC_PI_2025\Conecta_Backend\Conecta_Prototype\Conecta_Prototype.APIrest\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Conecta_Prototype.APIrest.props
 D:\SENAC_PI_2025\Conecta_Backend\Conecta_Prototype\Conecta_Prototype.APIrest\obj\Debug\net8.0\staticwebassets.pack.json
-D:\SENAC_PI_2025\Conecta_Backend\Conecta_Prototype\Conecta_Prototype.APIrest\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 D:\SENAC_PI_2025\Conecta_Backend\Conecta_Prototype\Conecta_Prototype.APIrest\obj\Debug\net8.0\Conecta_.7DE668C5.Up2Date
 D:\SENAC_PI_2025\Conecta_Backend\Conecta_Prototype\Conecta_Prototype.APIrest\obj\Debug\net8.0\Conecta_Prototype.APIrest.dll
 D:\SENAC_PI_2025\Conecta_Backend\Conecta_Prototype\Conecta_Prototype.APIrest\obj\Debug\net8.0\refint\Conecta_Prototype.APIrest.dll

@@ -37,7 +37,7 @@ const PrestadorDeServicoCard = ({ prestador }) => {
   }
 
   return (
-    <Card className="mb-4 transition-transform transform hover:scale-[1.02] hover:shadow-lg">
+    <Card className="mb-4">
       <CardHeader>
         <div className="d-flex align-items-center gap-4">
           {prestador.imagemLogo ? (
