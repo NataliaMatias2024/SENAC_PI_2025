@@ -34,4 +34,6 @@ Plataforma para conectar clientes a profissionais autônomos, com foco em recém
 
 ### Vídeo de Apresentação
 
-[Link para o vídeo](URL-DO-VÍDEO)
+https://github.com/user-attachments/assets/91104fd6-5d44-4024-b726-15d8a28eabc5
+
+
